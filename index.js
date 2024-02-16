@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer')
+const fs = require('fs');
 
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
@@ -61,10 +62,7 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 
 }
 
-
-
-(async () => {
-    
+const program = async (datas) => {
 
     const browser = await puppeteer.launch({
         headless: false,
@@ -102,18 +100,40 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 
     await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
 
-    await doktorTakvimiIcinDoldur({
-        page:page,
-        resim:data.resim,
-        yetenekAdi:data.yetenek+'UMUTBOT',
-        aciklama:data.aciklama,
-        sayfaSelectText:data.sayfa.text,
-        sayfaSelectValue:data.sayfa.value,
-        yetenekKategoriSelectText:data.yetenekKategori.text,
-        yetenekKategoriSelectValue:data.yetenekKategori.value,
-        yetenekSelectText:data.yetenekTuru.text,
-        yetenekSelectValue:data.yetenekTuru.value
-    });
+    let index = 0;
+    for (const data of datas) {
+
+        await doktorTakvimiIcinDoldur({
+            page:page,
+            resim:data.resim,
+            yetenekAdi:data.yetenek,
+            aciklama:data.aciklama,
+            sayfaSelectText:data.sayfa.text,
+            sayfaSelectValue:data.sayfa.value,
+            yetenekKategoriSelectText:data.yetenekKategori.text,
+            yetenekKategoriSelectValue:data.yetenekKategori.value,
+            yetenekSelectText:data.yetenekTuru.text,
+            yetenekSelectValue:data.yetenekTuru.value
+        });
+
+        index++;
+
+    }
 
     await browser.close();
+};
+
+(async () => {
+    fs.readFile('dataDoktorTakvimi.json', 'utf8', async (err, arr) => {
+
+        if (err) {
+            console.error('Dosya okunurken hata oluştu:', err);
+            return;
+        }
+        
+        const datas = JSON.parse(arr);
+
+        await program(datas);
+
+    });
 })();
