@@ -2,52 +2,15 @@ const puppeteer = require('puppeteer')
 
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-const ornekYukle = async () => {
-    
-    const browser = await puppeteer.launch({headless: false});
-    const page = await browser.newPage();
-
-    await page.goto('file:///C:/Users/xyzum/Desktop/index.html');
-  
-    await page.waitForSelector('body > select');
-
-    await page.select('body > select', '7')
-
-    await delay(10000);
-
-    await browser.close();
-}
-
-const ornekYukleResim = async () => {
-
-    const browser = await puppeteer.launch({headless: false});
-    const page = await browser.newPage();
-  
-    // Navigate the page to a URL
-    await page.goto('file:///C:/Users/xyzum/Desktop/index.html');
-    
-    await page.waitForSelector('[name=deneme]');
-
-    const fileInput = await page.$('input[name=deneme]');
-    await fileInput.uploadFile('C:/Users/xyzum/Downloads/avatar.jpg');
-
-
-    
-
-    await delay(10000);
-
-    await browser.close();
-}
-
 const _e = (text) => { console.log(text) }
-
 
 const yonlendirme1Path1 = 'body > div.main-content.position-relative.max-height-vh-100.h-100.border-radius-lg > div:nth-child(11) > div:nth-child(3) > div:nth-child(1) > div > a';
 const yonlendirme1Path2 = 'body > div.main-content.position-relative.max-height-vh-100.h-100.border-radius-lg > div:nth-child(10) > div:nth-child(3) > div:nth-child(1) > div > a';
-
-
+const doktorOnerYetenekEklemeSayfasi = 'https://panel.prosyazilim.com.tr/pages/yazilimproje/ornek-uygulama-listesi.php?yetenek-ekle&id=1';
 
 const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ", yetenekSelectText, yetenekSelectValue, sayfaSelectText, sayfaSelectValue, yetenekKategoriSelectText, yetenekKategoriSelectValue}) => {
+
+    await page.goto(doktorOnerYetenekEklemeSayfasi);
 
     await page.waitForSelector('[name=yetenek_adi]');
 
@@ -62,10 +25,6 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 
     await page.click('[name=ek_aciklama]');
     await page.keyboard.type(aciklama);
-
-    
-    const fileInput = await page.$('input[name=resim_url]');
-    await fileInput.uploadFile('C:/Users/xyzum/Desktop/puppeteerbot/doktoronerResim/'+resim);
     
     await page.evaluate(({sayfaSelectText, sayfaSelectValue, yetenekSelectText, yetenekSelectValue, yetenekKategoriSelectText, yetenekKategoriSelectValue}) => {
         
@@ -82,7 +41,10 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
             yetenekKategoriSelect.add(new Option(yetenekKategoriSelectText, yetenekKategoriSelectValue));
             yetenekKategoriSelect.value = yetenekKategoriSelectValue;
 
+            document.querySelector("#ajaxform > input[type=file]").remove();
+            document.querySelector("#ajaxform > div > div:nth-child(11)").remove();
             document.querySelector('#ajaxform > div > div:nth-child(8) > div > select').remove();
+            document.querySelector("#ajaxform").insertAdjacentHTML('afterbegin', '<input type="file" name="resim_url[]" multiple="" accept="image/*" id="umut"></input>');
             
         } catch (error) {
             console.error(error)
@@ -90,10 +52,19 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 
     }, {sayfaSelectText, sayfaSelectValue, yetenekSelectText, yetenekSelectValue, yetenekKategoriSelectText, yetenekKategoriSelectValue});
 
+    const fileInput = await page.$('#umut');
+    await fileInput.uploadFile('C:/Users/xyzum/Desktop/puppeteerbot/doktoronerResim/'+resim);
+
+    await page.click('#ajaxform > div > div.col-md-12.text-end.mt-3 > button');
+
+    await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
+
 }
 
 
+
 (async () => {
+    
 
     const browser = await puppeteer.launch({
         headless: false,
@@ -114,7 +85,6 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
     await page.click('[name=password]');
     await page.keyboard.type('123456');
 
-
     await page.click('#lock_btn');
     _e('Giriş Yapma butonuna basıldı');
     
@@ -132,26 +102,18 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 
     await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
 
-    await page.goto('https://panel.prosyazilim.com.tr/pages/yazilimproje/ornek-uygulama-listesi.php?yetenek-ekle&id=1');
-
     await doktorTakvimiIcinDoldur({
-        sayfa:'UZMAN PROFİLİ->ÖZGEÇMİŞ-> DENEYİMLER',
         page:page,
-        resim:'Adsız.png',
-        yetenekAdi:'UZMANIN DENEYİMLERİ MODALI',
-        aciklama:'UZMANIN DENEYİMLERİNİ İÇEREN BİR MODAL AÇMA-Umut',
-        sayfaSelectText:'UZMAN PROFİLİ->ÖZGEÇMİŞ-> DENEYİMLER',
-        sayfaSelectValue:'419',
-        yetenekKategoriSelectText:'BUTON',
-        yetenekKategoriSelectValue:'1',
-        yetenekSelectText:'BUTON',
-        yetenekSelectValue:'1'
-
+        resim:data.resim,
+        yetenekAdi:data.yetenek+'UMUTBOT',
+        aciklama:data.aciklama,
+        sayfaSelectText:data.sayfa.text,
+        sayfaSelectValue:data.sayfa.value,
+        yetenekKategoriSelectText:data.yetenekKategori.text,
+        yetenekKategoriSelectValue:data.yetenekKategori.value,
+        yetenekSelectText:data.yetenekTuru.text,
+        yetenekSelectValue:data.yetenekTuru.value
     });
-
-    await delay(150000);
 
     await browser.close();
 })();
-
-

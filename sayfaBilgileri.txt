@@ -579,4 +579,3 @@
     "id": "660",
     "text": "İNTERNET SİTESİ ROZETİ"
   }
-]
