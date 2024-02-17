@@ -12,20 +12,16 @@
         "text": "INPUT"
     },
     {
-        "id": "4",
-        "text": "SLIDER"
+        "id": "14",
+        "text": "METİN LİNK"
     },
     {
-        "id": "5",
-        "text": "GORSEL"
+        "id": "15",
+        "text": "METİN"
     },
     {
         "id": "6",
         "text": "GORUNTULE"
-    },
-    {
-        "id": "7",
-        "text": "İZLE"
     },
     {
         "id": "8",
@@ -34,6 +30,18 @@
     {
         "id": "9",
         "text": "LİSTELEME"
+    },
+    {
+        "id": "4",
+        "text": "SLIDER"
+    },
+    {
+        "id": "5",
+        "text": "GORSEL"
+    },
+    {
+        "id": "7",
+        "text": "İZLE"
     },
     {
         "id": "10",
@@ -50,14 +58,6 @@
     {
         "id": "13",
         "text": "PAYLAŞ"
-    },
-    {
-        "id": "14",
-        "text": "METİN LİNK"
-    },
-    {
-        "id": "15",
-        "text": "METİN"
     },
     {
         "id": "16",

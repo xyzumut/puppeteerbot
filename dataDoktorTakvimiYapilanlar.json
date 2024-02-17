@@ -1,0 +1,1583 @@
+[
+    {
+      "sayfa": {
+        "value": "419",
+        "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> DENEYİMLER"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "UZMANIN DENEYİMLERİ MODALI",
+      "aciklama": "UZMANIN DENEYİMLERİNİ İÇEREN BİR MODAL AÇMA",
+      "resim": "1"
+    },
+    {
+      "sayfa": {
+        "value": "421",
+        "text": "ONLİNE DANIŞMANLIK NEDİR?"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "ONLİNE DANIŞMANLIK MODALI",
+      "aciklama": "ONLİNE DANIŞMANLIK  HAKKINDA BİLGİ İÇEREN BİR MODAL AÇMA",
+      "resim": "2"
+    },
+    {
+      "sayfa": {
+        "value": "422",
+        "text": "TÜM UZMANLIK ALANLARI"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "UZMANLIK ALANLARI GRUPLARI",
+      "aciklama": "TÜM UZMANLIK ALANLARININ VE HER UZMANLIK ALANI ALTINDA ŞEHİRLERİ İLE BİRLİKTE FİLTRELERİNİN LİSTELENMESİ",
+      "resim": "3"
+    },
+    {
+      "sayfa": {
+        "value": "425",
+        "text": "HASTANE İLETİŞİM BİLGİLERİ"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "İLETİŞİM BİLGİLERİ DETAYLARI MODALI",
+      "aciklama": "İLETİŞİM BİLGİLERİ MODALINI AÇMA",
+      "resim": "4"
+    },
+    {
+      "sayfa": {
+        "value": "425",
+        "text": "HASTANE İLETİŞİM BİLGİLERİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HARİTA",
+      "aciklama": "HARİTAYA YÖNLENDİRME",
+      "resim": "5"
+    },
+    {
+      "sayfa": {
+        "value": "425",
+        "text": "HASTANE İLETİŞİM BİLGİLERİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "SOSYAL MEDYA",
+      "aciklama": "SOSYAL MEDYA YÖNLENDİRMELERİ",
+      "resim": "6"
+    },
+    {
+      "sayfa": {
+        "value": "425",
+        "text": "HASTANE İLETİŞİM BİLGİLERİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "MESAJ GÖNDER",
+      "aciklama": "MESAJ GÖNDER MODALININ AÇILMASI VE MOBİL UYGULAMAYA YÖNLENDİRME",
+      "resim": "7"
+    },
+    {
+      "sayfa": {
+        "value": "426",
+        "text": "HASTANE HİZMET DETAYLARI"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "HİZMET DETAYLARI MODALI",
+      "aciklama": "HİZMET DETAYLARI MODALI AÇMA VE MODAL İÇERİSİNDE HİZMET HAKKINDAKİ GÖRÜŞLERİ GÖRÜNTÜLEME",
+      "resim": "8"
+    },
+    {
+      "sayfa": {
+        "value": "427",
+        "text": "HASTANE UZMAN DETAYLARI"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "UZMAN ARAMA",
+      "aciklama": "Uzmanlar listeleniyor, listelenen uzmanın profil özeti gözüken bir modal açılıyor",
+      "resim": "9"
+    },
+    {
+      "sayfa": {
+        "value": "427",
+        "text": "HASTANE UZMAN DETAYLARI"
+      },
+      "yetenekTuru": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenekKategori": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenek": "SİGORTA FİLTRESİ",
+      "aciklama": "SİGORTA FİLTRESİ İÇİN BİR SELECT",
+      "resim": "10"
+    },
+    {
+      "sayfa": {
+        "value": "427",
+        "text": "HASTANE UZMAN DETAYLARI"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "RANDEVU KAYDETME",
+      "aciklama": "LİSTELENEN DOKTORLARIN BİLGİSİ İLE RANDEVU EKRANINI DOLDURMA VE RANDEVU ALMA",
+      "resim": "11"
+    },
+    {
+      "sayfa": {
+        "value": "427",
+        "text": "HASTANE UZMAN DETAYLARI"
+      },
+     "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "LİSTELENEN DOKTORUN PROFİLİ MODALI",
+      "aciklama": "DOKTORUN PROFİLİNİ İÇEREN BİR MODAL AÇMA VE MODALDA RANDEVU AL BUTONU",
+      "resim": "11"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenekKategori": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenek": "HEKİMLER/UZMANLAR",
+      "aciklama": "UZMAN SEÇİMİ SELECTİ",
+      "resim": "12"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TARİH VE SAAT",
+      "aciklama": "TARİH VE SAAT SEÇİMİ VE ARDINDAN RANDEVUNUN KALAN KISMI İÇİN YÖNLENDİRME",
+      "resim": "13"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "RANDEVU SEBEBİ",
+      "aciklama": "RANDEVU SEBEBİ SEÇİMİ",
+      "resim": "14"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "11",
+        "text": "RADİO BUTTON"
+      },
+      "yetenekKategori": {
+        "value": "11",
+        "text": "RADİO BUTTON"
+      },
+      "yetenek": "BU DOKTOR İLE İLK RANDEVU MU SEÇENEĞİ",
+      "aciklama": "EVET HAYIR İLE SEÇİLİR",
+      "resim": "15"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "RANDEVU TARİHİNİ DEĞİŞTİR",
+      "aciklama": "RANDEVU TARİHİNİ DEĞİŞTİRMEK İÇİN TAKVİM",
+      "resim": "16"
+    },
+    {
+      "sayfa": {
+        "value": "429",
+        "text": "HASTANE RANDEVU AL"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "DEVAM ET",
+      "aciklama": "DEVAM ET İLE STANDART RANDEVU ALMA SAYFASINA YÖNLENDİRİR",
+      "resim": "17"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "MAKALE İÇERİĞİ",
+      "aciklama": "MAKALE İÇERİĞİ",
+      "resim": "18"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "YAZAR",
+      "aciklama": "YAZARA YÖNLENDİRME",
+      "resim": "19"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "UZMANLIK ALANI",
+      "aciklama": "UZMANLIK ALANINA YÖNLENDİRME",
+      "resim": "20"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "YORUMLAR",
+      "aciklama": "MAKALE YORUMLARINA YÖNLENDİRME",
+      "resim": "21"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "RANDEVU AL",
+      "aciklama": "YAZARDAN RANDEVU ALMA YÖNLENDİRME",
+      "resim": "22"
+    },
+    {
+      "sayfa": {
+        "value": "431",
+        "text": "ANASAYFA-> MAKALE DETAYI"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "BENZER MAKALELER",
+      "aciklama": "BENZER MAKALELERİ LİSTELEME VE MAKALEYE YÖNLENDİRME",
+      "resim": "23"
+    },
+    {
+      "sayfa": {
+        "value": "432",
+        "text": "GİZLİLİK SÖZLEŞMESİ"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "GİZLİLİK SÖZLEŞMESİ",
+      "aciklama": "GİZLİLİK SÖZLEŞMESİ  METNİ",
+      "resim": "24"
+    },
+    {
+      "sayfa": {
+        "value": "433",
+        "text": "ÇEREZ POLİTİKASI"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "ÇEREZ POLİTİKASI",
+      "aciklama": "ÇEREZ POLİTİKASI METNİ",
+      "resim": "25"
+    },
+    {
+      "sayfa": {
+        "value": "434",
+        "text": "BİLGİ GÜVENLİĞİ POLİTİKASI"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "BİLGİ GÜVENLİĞİ POLİTİKASI",
+      "aciklama": "BİLGİ GÜVENLİĞİ POLİTİKASI METNİ",
+      "resim": "26"
+    },
+    {
+      "sayfa": {
+        "value": "436",
+        "text": "KARİYER"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "KARİYER SAYFASI",
+      "aciklama": "ŞİRKETİN KARİYER İMKANLARI HAKKINDA BİLGİLENDİRME VE İŞ İLANLARI, ÜLKE SEÇİMİ İLE SAYFA İÇİ YÖNLENDİRMELER, Klinik kariyere Yönlendirecek",
+      "resim": "27"
+    },
+    {
+      "sayfa": {
+        "value": "439",
+        "text": "İLETİŞİM"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "MAİL",
+      "aciklama": "MAİL ADRESİ İÇİN İNPUT",
+      "resim": "28"
+    },
+    {
+      "sayfa": {
+        "value": "439",
+        "text": "İLETİŞİM"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "İÇERİK",
+      "aciklama": "İÇERİK YAZILABİLECEK İNPUT",
+      "resim": "29"
+    },
+    {
+      "sayfa": {
+        "value": "439",
+        "text": "İLETİŞİM"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "GÖNDER",
+      "aciklama": "MESAJI GÖNDERME BUTONU",
+      "resim": "30"
+    },
+    {
+      "sayfa": {
+        "value": "440",
+        "text": "KULLANIM ŞARTNAMESİ"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "KULLANIM ŞARTNAMESİ",
+      "aciklama": "KULLANIM ŞARTNAMESİ METNİ",
+      "resim": "31"
+    },
+    {
+      "sayfa": {
+        "value": "441",
+        "text": "BASIN MERKEZİ"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "BASIN MERKEZİ",
+      "aciklama": "BASIN MERKEZİ İÇİN ŞİRKET PR SİTESİNE YÖNLENDİRME",
+      "resim": "32"
+    },
+    {
+      "sayfa": {
+        "value": "442",
+        "text": "SıK SORULAN SORULAR"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "SIK SORULAN SORULAR VE CEVAPLARI",
+      "aciklama": "SIK SORULAN SORULAR VE CEVAPLARI METNİ",
+      "resim": "33"
+    },
+    {
+      "sayfa": {
+        "value": "445",
+        "text": "KLİNİKLER"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HASTANE KATEGORİLERİ",
+      "aciklama": "HASTANE KATEGORİLERİNE GÖRE LİSTELEME VE TIKLANDIĞINDA FİLTRELEYEREK YÖNLENDİRME",
+      "resim": "34"
+    },
+    {
+      "sayfa": {
+        "value": "445",
+        "text": "KLİNİKLER"
+      },
+      "yetenekTuru": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "ŞEHİRLER",
+      "aciklama": "ŞEHİLRERE GÖRE LİSTELEME VE TIKLANDIĞINDA FİLTRELEYEREK YÖNLENDİRME",
+      "resim": "35"
+    },
+    {
+      "sayfa": {
+        "value": "446",
+        "text": "KLİNİKLER-> FİLTREYE GÖRE KLİNİKLER/HASTANELER"
+      },
+      "yetenekTuru": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "HASTANELER",
+      "aciklama": "FİLTREYE GÖRE HASTANE PROFİLLERİ LİSTELEME",
+      "resim": "36"
+    },
+    {
+      "sayfa": {
+        "value": "447",
+        "text": "HİZMETLER"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "SON ZAMANLARDA ARANAN HİZMETLER",
+      "aciklama": "SON ZAMANLARDA ARANAN HİZMETLER VE SUNULAN HİZMETLERİN LİSTELENMESİ",
+      "resim": "37"
+    },
+    {
+      "sayfa": {
+        "value": "447",
+        "text": "HİZMETLER"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "BENZER HİZMETLER",
+      "aciklama": "BENZER HİZMETLER VE A'DAN Z'YE TÜM HİZMETLERİN LİSTELENMESİ",
+      "resim": "38"
+    },
+    {
+      "sayfa": {
+        "value": "448",
+        "text": "HİZMETLER -> FİLTRELENDİKTEN SONRA"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "BİLGİ",
+      "aciklama": "SEÇİLEN HİZMET İLE İLGİLİ DOKTORLARIN PROFİLLERİ VE SEÇİM SONUCU PROFİL YÖNLENDİRMESİ, PROFİL ALTLARINDA RANDEVU AL BUTONUYLA  RANDEVU YÖNLENDİRMESİ",
+      "resim": "39"
+    },
+    {
+      "sayfa": {
+        "value": "448",
+        "text": "HİZMETLER -> FİLTRELENDİKTEN SONRA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "BU HİZMETİ HANGİ PROFESYONELLER GERÇEKLEŞTİRİR",
+      "aciklama": "SEÇİLEN HİZMETİ HANGİ PROFESYONELLERİN GERÇEKLEŞTİRECEĞİNİ LİSTELEME VE SEÇİM SONUCU BİLGİ KISMINI FİLTRELEME",
+      "resim": "40"
+    },
+    {
+      "sayfa": {
+        "value": "449",
+        "text": "HASTALIKLAR"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "YAKIN ZAMANDA ARANAN HASTALIKLAR",
+      "aciklama": "YAKIN ZAMANLARDA ARANAN HASYALIKLARIN LİSTELENMESİ",
+      "resim": "41"
+    },
+    {
+      "sayfa": {
+        "value": "449",
+        "text": "HASTALIKLAR"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "BENZER HASTALIKLAR",
+      "aciklama": "BENZER HASTALIKLAR VE A'DAN Z'YE TÜM HASTALIKLARIN LİSTELNEMESİ",
+      "resim": "42"
+    },
+    {
+      "sayfa": {
+        "value": "450",
+        "text": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "UZMANLARI GÖSTER",
+      "aciklama": "HASTALIK İLE İLGİLİ UZMANLARI FİLTRELEYİP LİSTELEME EKRANINA YÖNLENDİRME",
+      "resim": "43"
+    },
+    {
+      "sayfa": {
+        "value": "450",
+        "text": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "UZMANLAR",
+      "aciklama": "HASTALIK İLE İLGİLİ UZMANLARI LİSTELEME VE TIKLANDIĞINDA PROFİLE YÖNLENDİRME",
+      "resim": "44"
+    },
+    {
+      "sayfa": {
+        "value": "450",
+        "text": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "BU HASTALIĞI HANGİ PROFESYONLLER GERÇEKLEŞTİRİR",
+      "aciklama": "SEÇİLEN HASTALIĞI HANGİ PROFESYONELLERİN GERÇEKLEŞTİRECEĞİNİ LİSTELEME VE SEÇİM SONUCU  FİLTRELEME",
+      "resim": "45"
+    },
+    {
+      "sayfa": {
+        "value": "451",
+        "text": "HASTALIKLAR -> UZMANLARI GÖSTER"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenek": "HASTALIKLA İLGİLİ UZMANLAR",
+      "aciklama": "ARAMA KISMINDA ÇALIŞAN SAYFADA HASTALIK FİLTRELEMESİ YAPIP İLGİLİ UZMANLARIN LİSTELENMESİ",
+      "resim": "46"
+    },
+    {
+      "sayfa": {
+        "value": "453",
+        "text": "MOBİL UYGULAMALAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "QR KOD VE UYGULAMA LİNKİ",
+      "aciklama": "MOBİL UYGULAMAYA YÖNLENDİRME LİNKLERİ VE QR KOD",
+      "resim": "1"
+    },
+    {
+      "sayfa": {
+        "value": "454",
+        "text": "HASTALARA YÖNELİK BLOG"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "TÜM MAKALELER",
+      "aciklama": "MAKALE LİSTELERİ VE TIKLANDIĞINDA MAKALE İÇERİĞİNE YÖNLENDİRME",
+      "resim": "2"
+    },
+    {
+      "sayfa": {
+        "value": "454",
+        "text": "HASTALARA YÖNELİK BLOG"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "UZMANLIK ALANLARI",
+      "aciklama": "UZMANLIK ALANLARI LİSTESİ VE TIKLANDIĞINDA UZMANLIK ALANLARINA GÖRE MAKALE FİLTRELEME",
+      "resim": "3"
+    },
+    {
+      "sayfa": {
+        "value": "455",
+        "text": "MAKALE DETAY"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "MAKALE İÇERİK",
+      "aciklama": "MAKALE METNİ",
+      "resim": "4"
+    },
+    {
+      "sayfa": {
+        "value": "455",
+        "text": "MAKALE DETAY"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "MAKALE YAZARI",
+      "aciklama": "MAKALE YAZARI BİLGİİ , PROFİLİNE YÖNLENDİRME VE RANDEVU ALMA BUTONLARI",
+      "resim": "5"
+    },
+    {
+      "sayfa": {
+        "value": "455",
+        "text": "MAKALE DETAY"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "BENZER MAKALELER",
+      "aciklama": "BENZER MAKALELERİN LİSTESİ VE TIKLANDIĞINDA MAKALEYE YÖNLENDİRME",
+      "resim": "6"
+    },
+    {
+      "sayfa": {
+        "value": "455",
+        "text": "MAKALE DETAY"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "YORUMLAR",
+      "aciklama": "MAKALEYE YAPILAN YORUMLAR VE YORUM EKLEME",
+      "resim": "7"
+    },
+    {
+      "sayfa": {
+        "value": "456",
+        "text": "TAKVİM"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TAKVİMİ ETKİNLEŞTİRİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "8"
+    },
+    {
+      "sayfa": {
+        "value": "456",
+        "text": "TAKVİM"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "VİDEO",
+      "aciklama": "TANITIM VİDEOSU OYNATMA",
+      "resim": "9"
+    },
+    {
+      "sayfa": {
+        "value": "456",
+        "text": "TAKVİM"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "TEKLİF ALMA",
+      "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI",
+      "resim": "10"
+    },
+    {
+      "sayfa": {
+        "value": "457",
+        "text": "TAKVİMİ ETKİNLEŞTİRİN"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "PLAN SEÇİMİ",
+      "aciklama": "PLAN BİLGİLERİ VE SEÇİMİ SONUCUNDA ÖDEME KISMINA YÖNLENDİRME",
+      "resim": "11"
+    },
+    {
+      "sayfa": {
+        "value": "457",
+        "text": "TAKVİMİ ETKİNLEŞTİRİN"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "SORUNUZ MU VAR",
+      "aciklama": "BİLGİ ALINMAK İSTENMESİ DURUMUNDA DOLDURULACAK BİR KISIM VE GÖNDER BUTONU",
+      "resim": "12"
+    },
+    {
+      "sayfa": {
+        "value": "458",
+        "text": "MESAJLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "MESAJLARI AKTİVE EDİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "13"
+    },
+    {
+      "sayfa": {
+        "value": "458",
+        "text": "MESAJLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TEKLİFİNİZİ ALIN",
+      "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME",
+      "resim": "14"
+    },
+    {
+      "sayfa": {
+        "value": "459",
+        "text": "MESAJLARI AKTİVE EDİN"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "PLAN SATIN ALMA SAYFASI",
+      "aciklama": "PLAN BİLGİLERİ VE SEÇİMİ SONUCUNDA ÖDEME KISMINA YÖNLENDİRME VE SORUNUZ MU VAR KISMI",
+      "resim": "15"
+    },
+    {
+      "sayfa": {
+        "value": "460",
+        "text": "HASTALAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HASTA KAYDINI AKTİVE EDİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "16"
+    },
+    {
+      "sayfa": {
+        "value": "460",
+        "text": "HASTALAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TEKLİFİNİZİ ALIN",
+      "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME",
+      "resim": "17"
+    },
+    {
+      "sayfa": {
+        "value": "460",
+        "text": "HASTALAR"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "TEKLİFİNİZİ ALMA",
+      "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI",
+      "resim": "18"
+    },
+    {
+      "sayfa": {
+        "value": "461",
+        "text": "RAPORLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "KONTROL PANELİNİ AKTİVE EDİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "19"
+    },
+    {
+      "sayfa": {
+        "value": "461",
+        "text": "RAPORLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TEKLİFİNİZİ ALIN",
+      "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME",
+      "resim": "20"
+    },
+    {
+      "sayfa": {
+        "value": "461",
+        "text": "RAPORLAR"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3 ",
+        "text": "INPUT "
+      },
+      "yetenek": "TEKLİFİNİZİ ALMA",
+      "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI",
+      "resim": "21"
+    },
+    {
+      "sayfa": {
+        "value": "462",
+        "text": "TOPLU MAİL/SMS"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TOPLU E-POSTA/SMS'LERİ AKTİVE EDİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "22"
+    },
+    {
+      "sayfa": {
+        "value": "462",
+        "text": "TOPLU MAİL/SMS"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TEKLİFİNİZİ ALIN",
+      "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME",
+      "resim": "23"
+    },
+    {
+      "sayfa": {
+        "value": "462",
+        "text": "TOPLU MAİL/SMS"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TEKLİFİNİZİ ALMA",
+      "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI",
+      "resim": "24"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "PROFİLİ DÜZENLE",
+      "aciklama": "PROFİLİ DÜZENLE SAYFASI YÖNLENDİRMESİ",
+      "resim": "25"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "ADRESLER",
+      "aciklama": "ADRESLER SAYFASI YÖNLENDİRMESİ",
+      "resim": "26"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "KULLANICILAR",
+      "aciklama": "KULLANICILAR SAYFASI YÖNLENDİRMESİ",
+      "resim": "27"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "İSTATİSTİKLER",
+      "aciklama": "İSTATİSTİKLER SAYFASI YÖNLENDİRMESİ",
+      "resim": "28"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "PROFİLİNİZ",
+      "aciklama": "PROFİL (ARAMA PANELİNDEN ULAŞILAN) SAYFASI YÖNLENDİRMESİ",
+      "resim": "29"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "WEB SİTEM",
+      "aciklama": "WEB SİTEM SAYFASI YÖNLENDİRMESİ",
+      "resim": "30"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "WEB SİTENİZ İÇİN ROZET",
+      "aciklama": "WEB SİTENİZ İÇİN ROZET SAYFASI YÖNLENDİRMESİ",
+      "resim": "31"
+    },
+    {
+      "sayfa": {
+        "value": "463",
+        "text": "PROFİLİM (UZMAN)"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "ONLİNE RANDEVU TAKVİMİNİ ETKİNLEŞTİRİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "32"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "FOTOĞRAF EKLEME",
+      "aciklama": "FOTOĞRAF EKLEMEK İÇİN MODAL AÇMA",
+      "resim": "33"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "DETAYLARI ÖĞRENİN",
+      "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME",
+      "resim": "34"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "BİLGİLERİNİZ",
+      "aciklama": "UNVAN , AD ,SOYAD , İHTİSASLAR İNPUTLARI",
+      "resim": "35"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenek": "CİNSİYET",
+      "aciklama": "CİNSİYET SEÇİMİ",
+      "resim": "36"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "FOTOĞRAFLAR",
+      "aciklama": "FOTOĞRAF EKLEMEK İÇİN MODAL AÇMA",
+      "resim": "37"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "SERTİFİKALAR",
+      "aciklama": "SERTİFİKA EKLEMEK İÇİN MODAL AÇMA",
+      "resim": "38"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "HAKKIMDA",
+      "aciklama": "HAKKIMDA BİLGİSİ İÇİN İNPUT",
+      "resim": "39"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "SOSYAL MEDYA HESAPLARI",
+      "aciklama": "SOSYAL MEDYA HESAPLARI İÇİN İNPUTLAR",
+      "resim": "40"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HASTALIKLAR",
+      "aciklama": "TEDAVİ EDİLEN HASTALIKLARI EKLEMEK İÇİN AÇILAN MODAL",
+      "resim": "41"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "OKULLAR / EĞİTİMLER",
+      "aciklama": "OKUL VEYA EĞİTİM EKLEMEK İÇİN İNPUT",
+      "resim": "42"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "YAYINLAR",
+      "aciklama": "YAYIN EKLEMEK İÇİN İNPUT",
+      "resim": "43"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "ÖDÜLLER",
+      "aciklama": "ÖDÜL EKLEMEK İÇİN İNPUT",
+      "resim": "44"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "DENEYİMLER",
+      "aciklama": "DENEYİM EKLEMEK İÇİN İNPUT",
+      "resim": "45"
+    },
+    {
+      "sayfa": {
+        "value": "405",
+        "text": "UZMAN PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "2",
+        "text": "SELECT LİSTE"
+      },
+      "yetenek": "BİLİNEN DİLLER",
+      "aciklama": "DİL SEÇİMİ VE EKLEME",
+      "resim": "46"
+    }
+]

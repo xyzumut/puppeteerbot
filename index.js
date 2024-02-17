@@ -1,6 +1,11 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs');
 
+/**
+ *  1.İşlem öncesi 122 kayıtlı yetenek var ve sonuncusunun id'si 728, sayfası ise 13 
+ *  2.İşlem öncesi 169 kayıtlı yetenek var ve sonuncusunun id'si 832, sayfası ise 17 
+ */
+
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
 const _e = (text) => { console.log(text) }
@@ -54,7 +59,8 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
     }, {sayfaSelectText, sayfaSelectValue, yetenekSelectText, yetenekSelectValue, yetenekKategoriSelectText, yetenekKategoriSelectValue});
 
     const fileInput = await page.$('#umut');
-    await fileInput.uploadFile('C:/Users/xyzum/Desktop/puppeteerbot/doktoronerResim/'+resim);
+    await fileInput.uploadFile('C:/Users/xyzum/Desktop/puppeteerbot/doktoronerResim/'+resim+'.png');
+
 
     await page.click('#ajaxform > div > div.col-md-12.text-end.mt-3 > button');
 
@@ -63,6 +69,8 @@ const doktorTakvimiIcinDoldur = async ({page, yetenekAdi, resim, aciklama = " ",
 }
 
 const program = async (datas) => {
+
+    const startTime = performance.now()
 
     const browser = await puppeteer.launch({
         headless: false,
@@ -121,6 +129,10 @@ const program = async (datas) => {
     }
 
     await browser.close();
+
+    
+    let endTime = performance.now()
+    console.log(`Çalışma Süresi : ${((endTime - startTime)/1000).toFixed(3)} saniye ,  ${((endTime - startTime)/1000/60).toFixed(3)} dakika`);
 };
 
 (async () => {
