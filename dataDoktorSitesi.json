@@ -1,0 +1,1294 @@
+[
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "LOGO",
+      "aciklama": "ANASAYFAYA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "DOKTOR MUSUN?",
+      "aciklama": "UZMAN ÖZEL SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "KAYIT OL",
+      "aciklama": "DOKTOR VEYA HASTA İÇİN KAYIT OLMA YÖNLENDİRMESİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "GİRİŞ YAP",
+      "aciklama": "GİRİŞ YAP SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "RANDEVULAR",
+      "aciklama": "GİRİŞ YAPILMIŞSA RANDEVULARIM SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HESABIM",
+      "aciklama": "GİRİŞ YAPILMIŞSA HESABIM SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenek": "ARAMA KISMI",
+      "aciklama": "-DOKTOR\n-UZMANLIK\n- KURUM ADI \n-ŞEHİR\n-ONLİNE GÖRÜŞME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "POPÜLER BRANŞLAR",
+      "aciklama": "ARAMA KISMI ALTINDA FİLTRELEME ÖRNEKLERİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "MAKALELER",
+      "aciklama": "MAKALE ÖZETİ VE TIKLAMA İLE MAKALE DETAYINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TÜM MAKALELER",
+      "aciklama": "TÜM MAKALELERE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "SON DEĞERLENDİRMELER",
+      "aciklama": "DEĞERLENDİRME VE DOKTORA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "BRANŞ VE ŞEHİR FİLTRELERİ",
+      "aciklama": "UYGULAMAK İÇİN HAZIR VE EŞLEŞTİRİLMİŞ BRANŞ VE ŞEHİR FİLTRELERİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "TÜM ŞEHİRLER",
+      "aciklama": "TÜM ŞEHİRLERE YÖNLENDİREN LİNK",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "5",
+        "text": "GORSEL"
+      },
+      "yetenek": "SERTİFİKA LOGOLARI VE QR KOD",
+      "aciklama": "ALINMIŞ SERTİFİKALAR , ETBİS KAYDI İÇİN QR KOD VE DİĞER BAĞLANTILAR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "8",
+        "text": "ANASAYFA"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "5",
+        "text": "GORSEL"
+      },
+      "yetenek": "SOSYAL MEDYA",
+      "aciklama": "SOSYAL MEDYA YÖNLENDİRMELERİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "9",
+        "text": "Makaleler"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "MAKALELER",
+      "aciklama": "MAKALELERE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "9",
+        "text": "Makaleler"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenek": "BRANŞLAR",
+      "aciklama": "BRANŞ SEÇEREK MAKALE FİLTRELEME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "10",
+        "text": "MAKALE İÇERİĞİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "YAZARIN PROFİL ÖZETİ",
+      "aciklama": "PROFİLE YÖNLENDİRİR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "10",
+        "text": "MAKALE İÇERİĞİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "8",
+        "text": "FİLTRELE"
+      },
+      "yetenek": "MAKALE İLE İLGİLİ FİLTRELER",
+      "aciklama": "FİLTRELER VE UZMANLARI LİSTELER",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "22",
+        "text": "BİZE ULAŞIN"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "FORM VERİSİ",
+      "aciklama": "AD,SOYAD , EPOSTA , TELEFON VE MESAJ İÇİN İNPUT",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "22",
+        "text": "BİZE ULAŞIN"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "GÖNDER",
+      "aciklama": "GÖNDER BUTONU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "22",
+        "text": "BİZE ULAŞIN"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "ADRES VE EPOSTA BİLGİSİ",
+      "aciklama": "ŞİRKETE AİT ADRES VE EPOSTA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "23",
+        "text": "DOKTORLAR İÇİN"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "28",
+        "text": "CHECKBOX"
+      },
+      "yetenek": "KİŞİSEL VERİLER CHECKBOX",
+      "aciklama": "KİŞİSEL VERLERİN İŞLENMESİNİ KABUL ETME CHECKBOX'I VE AYDINTLATMA MENTİNE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "28",
+        "text": "DOKTOR MUSUNUZ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "BİLGİ ALMAK İSTİYORUM FORMU",
+      "aciklama": "AD,SOYAD , EPOSTA , TELEFON  İÇİN İNPUT,\nUZMANLIK ALANI,ŞEHİR İÇİN SELECT VE DİPLOMA GÖRSELİ İÇİN DOSYA EKLEME İNPUTU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "28",
+        "text": "DOKTOR MUSUNUZ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "28",
+        "text": "CHECKBOX"
+      },
+      "yetenek": "KİŞİSEL VERİLER CHECKBOX",
+      "aciklama": "KİŞİSEL VERLERİN İŞLENMESİNİ KABUL ETME CHECKBOX'I VE AYDINTLATMA MENTİNE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "42",
+        "text": "HASTANE PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "HASTANE TELEFON NUMARASI",
+      "aciklama": "HASTANEYİ ARA MODALINI AÇMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "42",
+        "text": "HASTANE PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "UZMANLAR",
+      "aciklama": "HASTANE UZMANLARI",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "42",
+        "text": "HASTANE PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "DEĞERLENDİRMELER",
+      "aciklama": "HASTANE DEĞERLENDİRMELERİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "52",
+        "text": "RANDEVU ALMA"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "RANDEVU BİLGİLERİ",
+      "aciklama": "TARİH SAAT, MUAYENEHANE VE ADRES , DOKTOR ADI",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "52",
+        "text": "RANDEVU ALMA"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "RANDEVUNUZU ONAYLAYIN",
+      "aciklama": "ONAY VERME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "UZMAN BİLGİLERİ",
+      "aciklama": "UZMAN ADI , ADRESİ , DEĞERLENDİRME PUANI , UZMANI KAYDET,",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "UZMAN TELEFON NO",
+      "aciklama": "TIKLADNIĞINDA UZMANI ARA MODALI AÇMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "RANDEVU AL",
+      "aciklama": "TIKLANDIĞINDA YANDAKİ RANDEVU ALMA BÖLMESİNİ İŞARET ETME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "HİZMETLER",
+      "aciklama": "UZMANIN HİZMETLERİNİ GÖSTERİR DEVAMI KISMINA TIKLAYINCA HİZMETLER MODALI AÇILIR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "HAKKINDA",
+      "aciklama": "DEVAMI KISMINA TIKLANDIĞINDA HAKKINDA MODALI AÇILIR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "DİPLOMA ALDIĞI KURUM",
+      "aciklama": "KURUM VE TECRÜBESİNİ BELİRTİR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "DEENYİMLER",
+      "aciklama": "UZMANIN DENEYİMLERİ LİSTELENİR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "GÖRÜŞLER LİSTESİ",
+      "aciklama": "GÖRÜŞLER LİSTELENİR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "55",
+        "text": "UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "İÇERİKLER",
+      "aciklama": "UZMANIN İÇERİKLERİ VE İÇERİKLERE YÖNLENDRİME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "57",
+        "text": "UZMANA SORU SORMA"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "FORM İÇERİĞİ",
+      "aciklama": "UZMANLIK ALANI SEÇME , SORU KONUSU SEÇME , SORU BAŞLIĞI , SORUNUZ , DOSYA YÜKLEME, AYDINLATMA METNİNE YÖNLENDİRME VE GÖNDER BUTONU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "58",
+        "text": "UZMANDAN RANDEVU ALMA"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "ADRES VE MUAYENE HANE BİLGİSİ ALTINDA MÜSAİT OLDUĞU SAAT VE TARİHLER",
+      "aciklama": "TIKLANDIĞINDA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "59",
+        "text": "UZMANLAR HAKKINDA GÖRÜŞLER"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "GÖRÜŞ LİSTESİ",
+      "aciklama": "EKLEME , ŞİKAYET ETME ARAMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "60",
+        "text": "UZMANLARIN HİZMETLERİ"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "HİZMETLER MODALI",
+      "aciklama": "HİMETLERİN LİSTELENMESİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "63",
+        "text": "GÖRÜŞ EKLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "DOKTORU TAVSİYE EDER MİSİNİZ",
+      "aciklama": "YILDIZLAR İLE DEĞERLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "63",
+        "text": "GÖRÜŞ EKLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "DENEYİMİ ANLATMA",
+      "aciklama": "METİN YAZMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "63",
+        "text": "GÖRÜŞ EKLEME"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "KULLANICI SÖZLEŞMESİ",
+      "aciklama": "YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "63",
+        "text": "GÖRÜŞ EKLEME"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "DEVAM ET BUTONU",
+      "aciklama": "GÖRÜŞ EKLEME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "64",
+        "text": "YORUM KURALLARI"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "YORUM KURALLARI",
+      "aciklama": "YORUM KURALLARI",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "72",
+        "text": "GİZLİLİK SÖZLEŞMESİ"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenek": "GİZLİLİK SÖZLEŞMESİ",
+      "aciklama": "GİZLİLİK SÖZLEŞMESİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "109",
+        "text": "HASTANELER"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenek": "HASTANE LİSTESİ",
+      "aciklama": "SEÇİM İLE HASTANE PROFİLEİNE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "42",
+        "text": "HASTANE PROFİLİ"
+      },
+      "yetenekTuru": {
+        "value": "15",
+        "text": "METİN"
+      },
+      "yetenekKategori": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenek": "HASTANE PROFİLİ SAYFASI",
+      "aciklama": "KLİNİKLERDE AÇIKLANAN HASTANE PROFİLİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "112",
+        "text": "GİRİŞ YAP"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "HEMEN ÜYE OL",
+      "aciklama": "ÜYE OLMA SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "112",
+        "text": "GİRİŞ YAP"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "EPOSTA VEYA TELEFON VE ŞİFRE",
+      "aciklama": "İNPUTLAR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "112",
+        "text": "GİRİŞ YAP"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "28",
+        "text": "CHECKBOX"
+      },
+      "yetenek": "BENİ HATIRLA",
+      "aciklama": "CHECKBOX",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "112",
+        "text": "GİRİŞ YAP"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "ŞİFREMİ UNUTTUM",
+      "aciklama": "ŞİFREMİ UNUTTUM SAYFASINA YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "112",
+        "text": "GİRİŞ YAP"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "GİRİŞ YAP",
+      "aciklama": "SİTEYE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "115",
+        "text": "ZİYARETÇİ OLARAK ÜYE OL"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "TELEFON NUMARASI\nONAYLAR",
+      "aciklama": "İNPUT VE CHECKBOXLAR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "116",
+        "text": "DOKTOR ÜYELİĞİ"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "FORM",
+      "aciklama": "AD,SOYAD,E-POSTA,TELEFON NO ,, ŞEHİR SEÇİMİ , ÜNVAN SEÇİMİ  , BRANŞ SEÇİMİ ,DİPLOMA YÜKLEME , ONAY CHECKBOXLARI VE GÖNDER BUTONU İLE ÜYE OLMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "117",
+        "text": "HESABIM UZMAN"
+      },
+      "yetenekTuru": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "YAKLAŞAN RANDEVULAR",
+      "aciklama": "RANDEVU SAYISI GÖRÜNTÜLEME VE TIKLAMA İLE YÖNLENDİRME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "122",
+        "text": "MAKALE YAYINLAMA"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "MAKALE FORMU",
+      "aciklama": "MAKALE BAŞLIĞI\nBRANİ SEÇİMİ\nİLGİ ALANLARI\nMAKALE ÖZETİ\nMAKALE İÇERİĞİ\nETİKET EKLEME\nFOTOĞRAF EKLEME\nKAYDET BUTONU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "123",
+        "text": "RANDEVU DETAYI GÖRÜNTÜLEME"
+      },
+      "yetenekTuru": {
+        "value": "6",
+        "text": "GORUNTULE"
+      },
+      "yetenekKategori": {
+        "value": "26",
+        "text": "CARD"
+      },
+      "yetenek": "RANDEVU BİLGİLERİ",
+      "aciklama": "FORM İÇİNDE RANDEVU BİLGİLERİNİN GÖRÜNTÜLENMESİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "123",
+        "text": "RANDEVU DETAYI GÖRÜNTÜLEME"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "RANDEVU DÜZENLE",
+      "aciklama": "RANDEVU DÜZENLEME MODALI AÇMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "124",
+        "text": "RANDEVU DÜZENLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "18",
+        "text": "POPUP"
+      },
+      "yetenek": "DETAY SAYFASI",
+      "aciklama": "FORM BİLGİLERİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "124",
+        "text": "RANDEVU DÜZENLEME"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "KAYDET",
+      "aciklama": "KAYDETME BUTONU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "150",
+        "text": "YENİ OPERASYON EKLEME"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "14",
+        "text": "METİN LİNK"
+      },
+      "yetenek": "FORM VE KAYDET VAZGEÇ BUTONLARI",
+      "aciklama": "OPERASYON BİLGİLERİ , TARİH.SAAT , NOTLAR",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "261",
+        "text": "TÜM DEĞERLENDİRMELER"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "29",
+        "text": "TABLE"
+      },
+      "yetenek": "DEĞERLENDİRME TABLOSU, FİLTRE VE ARAMA",
+      "aciklama": "TABLO",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "11",
+        "text": "SORULAR"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "SORULAR VE SORU SEÇİLDİĞİNDE AYRINTI GÖSTERME YERİ",
+      "aciklama": "YANIT YAZIP GÖNDERME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "265",
+        "text": "MESAJLAR"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "MESAJLAR TABLOSU VE MESAJ SEÇİLDİĞİNDE AYRINTI GÖSTERME YERİ",
+      "aciklama": "YANIT YAZIP GÖNDERME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "350",
+        "text": "HESABIM ZİYARETÇİ"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "OTURUMU KAPAT",
+      "aciklama": "OTURUMU KAPAT",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "351",
+        "text": "TAKİP EDİLEN UZMANLAR"
+      },
+      "yetenekTuru": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenekKategori": {
+        "value": "1",
+        "text": "BUTON"
+      },
+      "yetenek": "UZMANNLAR VE UZMANLARI TAKİPTEN ÇIK",
+      "aciklama": "UZMAN LİSTESİ VE UZMANLARI TAKİPTEN ÇIKMA",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "353",
+        "text": "SORULARIM"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "SORULARIM LİSTESİ VE ARAMA",
+      "aciklama": "SORU LİSTESİNDE ARAMA YAPMA İNPUTU",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "354",
+        "text": "RANDEVULARIM"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "29",
+        "text": "TABLE"
+      },
+      "yetenek": "RANDEVU LİSTESİ",
+      "aciklama": "RANDEVU LİSTESİ",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "356",
+        "text": "DEĞERLENDİRMELER"
+      },
+      "yetenekTuru": {
+        "value": "9",
+        "text": "LİSTELEME"
+      },
+      "yetenekKategori": {
+        "value": "29",
+        "text": "TABLE"
+      },
+      "yetenek": "DEĞERLENDİRMELER TABLOSU",
+      "aciklama": "TABLO",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "358",
+        "text": "AYARLAR -> HESAP BİLGİLERİNİ GÜNCELLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "AD,SOYAD,CİNSİYET,DOĞUM TARİHİ,ÜLKE İL , İLÇCE",
+      "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "359",
+        "text": "AYARLAR -> TELEFON BİLGİLERİNİ GÜNCELLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenek": "TEL NO VE ÜLKE KODU",
+      "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME",
+      "resim": "BEKLENIYOR"
+    },
+    {
+      "sayfa": {
+        "value": "360",
+        "text": "AYARLAR -> EMAİL BİLGİLERİNİ GÜNCELLEME"
+      },
+      "yetenekTuru": {
+        "value": "3",
+        "text": "INPUT"
+      },
+      "yetenekKategori": {
+        "value": "27",
+        "text": "FORM"
+      },
+      "yetenek": "EMAİL",
+      "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME",
+      "resim": "BEKLENIYOR"
+    }
+  ]

@@ -1,0 +1,266 @@
+[
+    {
+      "id": "8",
+      "text": "ANASAYFA"
+    },
+    {
+      "id": "9",
+      "text": "Makaleler"
+    },
+    {
+      "id": "257",
+      "text": "TÜM MAKALELER / MAKALE EKLE"
+    },
+    {
+      "id": "10",
+      "text": "MAKALE İÇERİĞİ"
+    },
+    {
+      "id": "22",
+      "text": "BİZE ULAŞIN"
+    },
+    {
+      "id": "23",
+      "text": "DOKTORLAR İÇİN"
+    },
+    {
+      "id": "28",
+      "text": "DOKTOR MUSUNUZ"
+    },
+    {
+      "id": "42",
+      "text": "HASTANE PROFİLİ"
+    },
+    {
+      "id": "52",
+      "text": "RANDEVU ALMA"
+    },
+    {
+      "id": "58",
+      "text": "UZMANDAN RANDEVU ALMA"
+    },
+    {
+      "id": "19",
+      "text": "HİZMETLERLE İLGİLİ UZMANLAR"
+    },
+    {
+      "id": "21",
+      "text": "TÜM UZMANLIK ALANLARI İLE İLGİLİ UZMANLAR"
+    },
+    {
+      "id": "26",
+      "text": "HASTALIK İLE İLGİLİ UZMANLAR"
+    },
+    {
+      "id": "27",
+      "text": "TÜM UZMANLAR"
+    },
+    {
+      "id": "55",
+      "text": "UZMANLAR"
+    },
+    {
+      "id": "56",
+      "text": "UZMANLARI ARAMA"
+    },
+    {
+      "id": "59",
+      "text": "UZMANLAR HAKKINDA GÖRÜŞLER"
+    },
+    {
+      "id": "60",
+      "text": "UZMANLARIN HİZMETLERİ"
+    },
+    {
+      "id": "61",
+      "text": "UZMANLAR HAKKINDA"
+    },
+    {
+      "id": "62",
+      "text": "UZMANLARIN İLGİ ALANLARI"
+    },
+    {
+      "id": "69",
+      "text": "ŞEHİR İLE İLGİLİ UZMANLAR"
+    },
+    {
+      "id": "108",
+      "text": "İÇERİK İLE İLGİLİ UZMANLAR"
+    },
+    {
+      "id": "351",
+      "text": "TAKİP EDİLEN UZMANLAR"
+    },
+    {
+      "id": "57",
+      "text": "UZMANA SORU SORMA"
+    },
+    {
+      "id": "58",
+      "text": "UZMANDAN RANDEVU ALMA"
+    },
+    {
+      "id": "59",
+      "text": "UZMANLAR HAKKINDA GÖRÜŞLER"
+    },
+    {
+      "id": "60",
+      "text": "UZMANLARIN HİZMETLERİ"
+    },
+    {
+      "id": "63",
+      "text": "GÖRÜŞ EKLEME"
+    },
+    {
+      "id": "125",
+      "text": "GÖRÜŞME EKLEME"
+    },
+    {
+      "id": "147",
+      "text": "YENİ GÖRÜŞME EKLEME"
+    },
+    {
+      "id": "64",
+      "text": "YORUM KURALLARI"
+    },
+    {
+      "id": "75",
+      "text": "YORUM YAYINLAMA KURALLARI"
+    },
+    {
+      "id": "72",
+      "text": "GİZLİLİK SÖZLEŞMESİ"
+    },
+    {
+      "id": "40",
+      "text": "HASTANELER/KLİNİKLER"
+    },
+    {
+      "id": "109",
+      "text": "HASTANELER"
+    },
+    {
+      "id": "112",
+      "text": "GİRİŞ YAP"
+    },
+    {
+      "id": "115",
+      "text": "ZİYARETÇİ OLARAK ÜYE OL"
+    },
+    {
+      "id": "116",
+      "text": "DOKTOR ÜYELİĞİ"
+    },
+    {
+      "id": "117",
+      "text": "HESABIM UZMAN"
+    },
+    {
+      "id": "122",
+      "text": "MAKALE YAYINLAMA"
+    },
+    {
+      "id": "123",
+      "text": "RANDEVU DETAYI GÖRÜNTÜLEME"
+    },
+    {
+      "id": "124",
+      "text": "RANDEVU DÜZENLEME"
+    },
+    {
+      "id": "150",
+      "text": "YENİ OPERASYON EKLEME"
+    },
+    {
+      "id": "261",
+      "text": "TÜM DEĞERLENDİRMELER"
+    },
+    {
+      "id": "262",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME İTİRAZLARIM"
+    },
+    {
+      "id": "263",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME YANITLA"
+    },
+    {
+      "id": "264",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME DETAYLARI"
+    },
+    {
+      "id": "11",
+      "text": "SORULAR"
+    },
+    {
+      "id": "66",
+      "text": "SIKÇA SORULAN SORULAR VE CEVAPLARI"
+    },
+    {
+      "id": "353",
+      "text": "SORULARIM"
+    },
+    {
+      "id": "265",
+      "text": "MESAJLAR"
+    },
+    {
+      "id": "352",
+      "text": "MESAJLARIM"
+    },
+    {
+      "id": "350",
+      "text": "HESABIM ZİYARETÇİ"
+    },
+    {
+      "id": "351",
+      "text": "TAKİP EDİLEN UZMANLAR"
+    },
+    {
+      "id": "353",
+      "text": "SORULARIM"
+    },
+    {
+      "id": "354",
+      "text": "RANDEVULARIM"
+    },
+    {
+      "id": "46",
+      "text": "HASTANE DEĞERLENDİRMELERİ"
+    },
+    {
+      "id": "261",
+      "text": "TÜM DEĞERLENDİRMELER"
+    },
+    {
+      "id": "262",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME İTİRAZLARIM"
+    },
+    {
+      "id": "263",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME YANITLA"
+    },
+    {
+      "id": "264",
+      "text": "TÜM DEĞERLENDİRMELER / DEĞERLENDİRME DETAYLARI"
+    },
+    {
+      "id": "356",
+      "text": "DEĞERLENDİRMELER"
+    },
+    {
+      "id": "357",
+      "text": "İTİRAZ EDİLEN DEĞERLENDİRMELER"
+    },
+    {
+      "id": "358",
+      "text": "AYARLAR -> HESAP BİLGİLERİNİ GÜNCELLEME"
+    },
+    {
+      "id": "359",
+      "text": "AYARLAR -> TELEFON BİLGİLERİNİ GÜNCELLEME"
+    },
+    {
+      "id": "360",
+      "text": "AYARLAR -> EMAİL BİLGİLERİNİ GÜNCELLEME"
+    }
+  ]

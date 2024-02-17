@@ -1,1367 +1,382 @@
 [
   {
-    "sayfaAdi": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> DENEYİMLER",
-    "yetenek": "UZMANIN DENEYİMLERİ MODALI",
-    "aciklama": "UZMANIN DENEYİMLERİNİ İÇEREN BİR MODAL AÇMA"
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "LOGO",
+    "aciklama": "ANASAYFAYA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "ONLİNE DANIŞMANLIK NEDİR?",
-    "yetenek": "ONLİNE DANIŞMANLIK MODALI",
-    "aciklama": "ONLİNE DANIŞMANLIK  HAKKINDA BİLGİ İÇEREN BİR MODAL AÇMA"
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "DOKTOR MUSUN?",
+    "aciklama": "UZMAN ÖZEL SAYFASINA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "TÜM UZMANLIK ALANLARI",
-    "yetenek": "UZMANLIK ALANLARI GRUPLARI",
-    "aciklama": "TÜM UZMANLIK ALANLARININ VE HER UZMANLIK ALANI ALTINDA ŞEHİRLERİ İLE BİRLİKTE FİLTRELERİNİN LİSTELENMESİ"
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "KAYIT OL",
+    "aciklama": "DOKTOR VEYA HASTA İÇİN KAYIT OLMA YÖNLENDİRMESİ"
   },
   {
-    "sayfaAdi": "HASTANE İLETİŞİM BİLGİLERİ",
-    "yetenek": "İLETİŞİM BİLGİLERİ DETAYLARI MODALI",
-    "aciklama": "İLETİŞİM BİLGİLERİ MODALINI AÇMA"
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "GİRİŞ YAP",
+    "aciklama": "GİRİŞ YAP SAYFASINA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "HASTANE İLETİŞİM BİLGİLERİ",
-    "yetenek": "HARİTA",
-    "aciklama": "HARİTAYA YÖNLENDİRME"
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "RANDEVULAR",
+    "aciklama": "GİRİŞ YAPILMIŞSA RANDEVULARIM SAYFASINA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "HASTANE İLETİŞİM BİLGİLERİ",
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "HESABIM",
+    "aciklama": "GİRİŞ YAPILMIŞSA HESABIM SAYFASINA YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "ARAMA KISMI",
+    "aciklama": "-DOKTOR\n-UZMANLIK\n- KURUM ADI \n-ŞEHİR\n-ONLİNE GÖRÜŞME"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "POPÜLER BRANŞLAR",
+    "aciklama": "ARAMA KISMI ALTINDA FİLTRELEME ÖRNEKLERİ"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "MAKALELER",
+    "aciklama": "MAKALE ÖZETİ VE TIKLAMA İLE MAKALE DETAYINA YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "TÜM MAKALELER",
+    "aciklama": "TÜM MAKALELERE YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "SON DEĞERLENDİRMELER",
+    "aciklama": "DEĞERLENDİRME VE DOKTORA YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "BRANŞ VE ŞEHİR FİLTRELERİ",
+    "aciklama": "UYGULAMAK İÇİN HAZIR VE EŞLEŞTİRİLMİŞ BRANŞ VE ŞEHİR FİLTRELERİ"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "TÜM ŞEHİRLER",
+    "aciklama": "TÜM ŞEHİRLERE YÖNLENDİREN LİNK"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
+    "yetenek": "SERTİFİKA LOGOLARI VE QR KOD",
+    "aciklama": "ALINMIŞ SERTİFİKALAR , ETBİS KAYDI İÇİN QR KOD VE DİĞER BAĞLANTILAR"
+  },
+  {
+    "sayfaAdi": "ANASAYFA",
     "yetenek": "SOSYAL MEDYA",
     "aciklama": "SOSYAL MEDYA YÖNLENDİRMELERİ"
   },
   {
-    "sayfaAdi": "HASTANE İLETİŞİM BİLGİLERİ",
-    "yetenek": "MESAJ GÖNDER",
-    "aciklama": "MESAJ GÖNDER MODALININ AÇILMASI VE MOBİL UYGULAMAYA YÖNLENDİRME"
+    "sayfaAdi": "Makaleler",
+    "yetenek": "MAKALELER",
+    "aciklama": "MAKALELERE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "HASTANE HİZMET DETAYLARI",
-    "yetenek": "HİZMET DETAYLARI MODALI",
-    "aciklama": "HİZMET DETAYLARI MODALI AÇMA VE MODAL İÇERİSİNDE HİZMET HAKKINDAKİ GÖRÜŞLERİ GÖRÜNTÜLEME"
+    "sayfaAdi": "Makaleler",
+    "yetenek": "BRANŞLAR",
+    "aciklama": "BRANŞ SEÇEREK MAKALE FİLTRELEME"
   },
   {
-    "sayfaAdi": "HASTANE UZMAN DETAYLARI",
-    "yetenek": "UZMAN ARAMA",
-    "aciklama": "UZMAN ARAMA İNPUTU"
+    "sayfaAdi": "MAKALE İÇERİĞİ",
+    "yetenek": "YAZARIN PROFİL ÖZETİ",
+    "aciklama": "PROFİLE YÖNLENDİRİR"
   },
   {
-    "sayfaAdi": "HASTANE UZMAN DETAYLARI",
-    "yetenek": "SİGORTA FİLTRESİ",
-    "aciklama": "SİGORTA FİLTRESİ İÇİN BİR SELECT"
+    "sayfaAdi": "MAKALE İÇERİĞİ",
+    "yetenek": "MAKALE İLE İLGİLİ FİLTRELER",
+    "aciklama": "FİLTRELER VE UZMANLARI LİSTELER"
   },
   {
-    "sayfaAdi": "HASTANE UZMAN DETAYLARI",
-    "yetenek": "RANDEVU KAYDETME",
-    "aciklama": "LİSTELENEN DOKTORLARIN BİLGİSİ İLE RANDEVU EKRANINI DOLDURMA VE RANDEVU ALMA"
+    "sayfaAdi": "BİZE ULAŞIN",
+    "yetenek": "FORM VERİSİ",
+    "aciklama": "AD,SOYAD , EPOSTA , TELEFON VE MESAJ İÇİN İNPUT"
   },
   {
-    "sayfaAdi": "HASTANE UZMAN DETAYLARI",
-    "yetenek": "LİSTELENEN DOKTORUN PROFİLİ MODALI",
-    "aciklama": "DOKTORUN PROFİLİNİ İÇEREN BİR MODAL AÇMA VE MODALDA RANDEVU AL BUTONU"
+    "sayfaAdi": "BİZE ULAŞIN",
+    "yetenek": "GÖNDER",
+    "aciklama": "GÖNDER BUTONU"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "HEKİMLER/UZMANLAR",
-    "aciklama": "UZMAN SEÇİMİ SELECTİ"
+    "sayfaAdi": "BİZE ULAŞIN",
+    "yetenek": "ADRES VE EPOSTA BİLGİSİ",
+    "aciklama": "ŞİRKETE AİT ADRES VE EPOSTA"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "TARİH VE SAAT",
-    "aciklama": "TARİH VE SAAT SEÇİMİ VE ARDINDAN RANDEVUNUN KALAN KISMI İÇİN YÖNLENDİRME"
+    "sayfaAdi": "DOKTORLAR İÇİN",
+    "yetenek": "KİŞİSEL VERİLER CHECKBOX",
+    "aciklama": "KİŞİSEL VERLERİN İŞLENMESİNİ KABUL ETME CHECKBOX'I VE AYDINTLATMA MENTİNE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "RANDEVU SEBEBİ",
-    "aciklama": "RANDEVU SEBEBİ SEÇİMİ"
+    "sayfaAdi": "DOKTOR MUSUNUZ",
+    "yetenek": "BİLGİ ALMAK İSTİYORUM FORMU",
+    "aciklama": "AD,SOYAD , EPOSTA , TELEFON  İÇİN İNPUT,\nUZMANLIK ALANI,ŞEHİR İÇİN SELECT VE DİPLOMA GÖRSELİ İÇİN DOSYA EKLEME İNPUTU"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "BU DOKTOR İLE İLK RANDEVU MU SEÇENEĞİ",
-    "aciklama": "EVET HAYIR İLE SEÇİLİR"
+    "sayfaAdi": "DOKTOR MUSUNUZ",
+    "yetenek": "KİŞİSEL VERİLER CHECKBOX",
+    "aciklama": "KİŞİSEL VERLERİN İŞLENMESİNİ KABUL ETME CHECKBOX'I VE AYDINTLATMA MENTİNE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "RANDEVU TARİHİNİ DEĞİŞTİR",
-    "aciklama": "RANDEVU TARİHİNİ DEĞİŞTİRMEK İÇİN TAKVİM"
+    "sayfaAdi": "HASTANE PROFİLİ",
+    "yetenek": "HASTANE TELEFON NUMARASI",
+    "aciklama": "HASTANEYİ ARA MODALINI AÇMA"
   },
   {
-    "sayfaAdi": "HASTANE RANDEVU AL",
-    "yetenek": "DEVAM ET",
-    "aciklama": "DEVAM ET İLE STANDART RANDEVU ALMA SAYFASINA YÖNLENDİRİR"
+    "sayfaAdi": "HASTANE PROFİLİ",
+    "yetenek": "UZMANLAR",
+    "aciklama": "HASTANE UZMANLARI"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
-    "yetenek": "MAKALE İÇERİĞİ",
-    "aciklama": "MAKALE İÇERİĞİ"
+    "sayfaAdi": "HASTANE PROFİLİ",
+    "yetenek": "DEĞERLENDİRMELER",
+    "aciklama": "HASTANE DEĞERLENDİRMELERİ"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
-    "yetenek": "YAZAR",
-    "aciklama": "YAZARA YÖNLENDİRME"
+    "sayfaAdi": "RANDEVU ALMA",
+    "yetenek": "RANDEVU BİLGİLERİ",
+    "aciklama": "TARİH SAAT, MUAYENEHANE VE ADRES , DOKTOR ADI"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
-    "yetenek": "UZMANLIK ALANI",
-    "aciklama": "UZMANLIK ALANINA YÖNLENDİRME"
+    "sayfaAdi": "RANDEVU ALMA",
+    "yetenek": "RANDEVUNUZU ONAYLAYIN",
+    "aciklama": "ONAY VERME"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
-    "yetenek": "YORUMLAR",
-    "aciklama": "MAKALE YORUMLARINA YÖNLENDİRME"
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "UZMAN BİLGİLERİ",
+    "aciklama": "UZMAN ADI , ADRESİ , DEĞERLENDİRME PUANI , UZMANI KAYDET,"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "UZMAN TELEFON NO",
+    "aciklama": "TIKLADNIĞINDA UZMANI ARA MODALI AÇMA"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
     "yetenek": "RANDEVU AL",
-    "aciklama": "YAZARDAN RANDEVU ALMA YÖNLENDİRME"
+    "aciklama": "TIKLANDIĞINDA YANDAKİ RANDEVU ALMA BÖLMESİNİ İŞARET ETME"
   },
   {
-    "sayfaAdi": "ANASAYFA-> MAKALE DETAYI",
-    "yetenek": "BENZER MAKALELER",
-    "aciklama": "BENZER MAKALELERİ LİSTELEME VE MAKALEYE YÖNLENDİRME"
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "HİZMETLER",
+    "aciklama": "UZMANIN HİZMETLERİNİ GÖSTERİR DEVAMI KISMINA TIKLAYINCA HİZMETLER MODALI AÇILIR"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "HAKKINDA",
+    "aciklama": "DEVAMI KISMINA TIKLANDIĞINDA HAKKINDA MODALI AÇILIR"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "DİPLOMA ALDIĞI KURUM",
+    "aciklama": "KURUM VE TECRÜBESİNİ BELİRTİR"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "DEENYİMLER",
+    "aciklama": "UZMANIN DENEYİMLERİ LİSTELENİR"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "GÖRÜŞLER LİSTESİ",
+    "aciklama": "GÖRÜŞLER LİSTELENİR"
+  },
+  {
+    "sayfaAdi": "UZMANLAR",
+    "yetenek": "İÇERİKLER",
+    "aciklama": "UZMANIN İÇERİKLERİ VE İÇERİKLERE YÖNLENDRİME"
+  },
+  {
+    "sayfaAdi": "UZMANA SORU SORMA",
+    "yetenek": "FORM İÇERİĞİ",
+    "aciklama": "UZMANLIK ALANI SEÇME , SORU KONUSU SEÇME , SORU BAŞLIĞI , SORUNUZ , DOSYA YÜKLEME, AYDINLATMA METNİNE YÖNLENDİRME VE GÖNDER BUTONU"
+  },
+  {
+    "sayfaAdi": "UZMANDAN RANDEVU ALMA",
+    "yetenek": "ADRES VE MUAYENE HANE BİLGİSİ ALTINDA MÜSAİT OLDUĞU SAAT VE TARİHLER",
+    "aciklama": "TIKLANDIĞINDA YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "UZMANLAR HAKKINDA GÖRÜŞLER",
+    "yetenek": "GÖRÜŞ LİSTESİ",
+    "aciklama": "EKLEME , ŞİKAYET ETME ARAMA"
+  },
+  {
+    "sayfaAdi": "UZMANLARIN HİZMETLERİ",
+    "yetenek": "HİZMETLER MODALI",
+    "aciklama": "HİMETLERİN LİSTELENMESİ"
+  },
+  {
+    "sayfaAdi": "GÖRÜŞ EKLEME",
+    "yetenek": "DOKTORU TAVSİYE EDER MİSİNİZ",
+    "aciklama": "YILDIZLAR İLE DEĞERLENDİRME"
+  },
+  {
+    "sayfaAdi": "GÖRÜŞ EKLEME",
+    "yetenek": "DENEYİMİ ANLATMA",
+    "aciklama": "METİN YAZMA"
+  },
+  {
+    "sayfaAdi": "GÖRÜŞ EKLEME",
+    "yetenek": "KULLANICI SÖZLEŞMESİ",
+    "aciklama": "YÖNLENDİRME"
+  },
+  {
+    "sayfaAdi": "GÖRÜŞ EKLEME",
+    "yetenek": "DEVAM ET BUTONU",
+    "aciklama": "GÖRÜŞ EKLEME"
+  },
+  {
+    "sayfaAdi": "YORUM KURALLARI",
+    "yetenek": "YORUM KURALLARI",
+    "aciklama": "YORUM KURALLARI"
   },
   {
     "sayfaAdi": "GİZLİLİK SÖZLEŞMESİ",
     "yetenek": "GİZLİLİK SÖZLEŞMESİ",
-    "aciklama": "GİZLİLİK SÖZLEŞMESİ  METNİ"
+    "aciklama": "GİZLİLİK SÖZLEŞMESİ"
   },
   {
-    "sayfaAdi": "ÇEREZ POLİTİKASI",
-    "yetenek": "ÇEREZ POLİTİKASI",
-    "aciklama": "ÇEREZ POLİTİKASI METNİ"
+    "sayfaAdi": "HASTANELER",
+    "yetenek": "HASTANE LİSTESİ",
+    "aciklama": "SEÇİM İLE HASTANE PROFİLEİNE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "BİLGİ GÜVENLİĞİ POLİTİKASI",
-    "yetenek": "BİLGİ GÜVENLİĞİ POLİTİKASI",
-    "aciklama": "BİLGİ GÜVENLİĞİ POLİTİKASI METNİ"
+    "sayfaAdi": "HASTANE PROFİLİ",
+    "yetenek": "HASTANE PROFİLİ SAYFASI",
+    "aciklama": "KLİNİKLERDE AÇIKLANAN HASTANE PROFİLİ"
   },
   {
-    "sayfaAdi": "KARİYER",
-    "yetenek": "KARİYER SAYFASI",
-    "aciklama": "ŞİRKETİN KARİYER İMKANLARI HAKKINDA BİLGİLENDİRME VE İŞ İLANLARI, ÜLKE SEÇİMİ İLE SAYFA İÇİ YÖNLENDİRMELER, Klinik kariyere Yönlendirecek"
+    "sayfaAdi": "GİRİŞ YAP",
+    "yetenek": "HEMEN ÜYE OL",
+    "aciklama": "ÜYE OLMSA SAYFASINA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "İLETİŞİM",
-    "yetenek": "MAİL",
-    "aciklama": "MAİL ADRESİ İÇİN İNPUT"
+    "sayfaAdi": "GİRİŞ YAP",
+    "yetenek": "EPOSTA VEYA TELEFON VE ŞİFRE",
+    "aciklama": "İNPUTLAR"
   },
   {
-    "sayfaAdi": "İLETİŞİM",
-    "yetenek": "İÇERİK",
-    "aciklama": "İÇERİK YAZILABİLECEK İNPUT"
+    "sayfaAdi": "GİRİŞ YAP",
+    "yetenek": "BENİ HATIRLA",
+    "aciklama": "CHECKBOX"
   },
   {
-    "sayfaAdi": "İLETİŞİM",
-    "yetenek": "GÖNDER",
-    "aciklama": "MESAJI GÖNDERME BUTONU"
+    "sayfaAdi": "GİRİŞ YAP",
+    "yetenek": "ŞİFREMİ UNUTTUM",
+    "aciklama": "ŞİFREMİ UNUTTUM SAYFASINA YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "KULLANIM ŞARTNAMESİ",
-    "yetenek": "KULLANIM ŞARTNAMESİ",
-    "aciklama": "KULLANIM ŞARTNAMESİ METNİ"
+    "sayfaAdi": "GİRİŞ YAP",
+    "yetenek": "GİRİŞ YAP",
+    "aciklama": "SİTEYE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "BASIN MERKEZİ",
-    "yetenek": "BASIN MERKEZİ",
-    "aciklama": "BASIN MERKEZİ İÇİN ŞİRKET PR SİTESİNE YÖNLENDİRME"
+    "sayfaAdi": "ZİYARETÇİ OLARAK ÜYE OL",
+    "yetenek": "TELEFON NUMARASI\nONAYLAR",
+    "aciklama": "İNPUT VE CHECKBOXLAR"
   },
   {
-    "sayfaAdi": "SıK SORULAN SORULAR",
-    "yetenek": "SIK SORULAN SORULAR VE CEVAPLARI",
-    "aciklama": "SIK SORULAN SORULAR VE CEVAPLARI METNİ"
-  },
-  {
-    "sayfaAdi": "KLİNİKLER",
-    "yetenek": "HASTANE KATEGORİLERİ",
-    "aciklama": "HASTANE KATEGORİLERİNE GÖRE LİSTELEME VE TIKLANDIĞINDA FİLTRELEYEREK YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KLİNİKLER",
-    "yetenek": "ŞEHİRLER",
-    "aciklama": "ŞEHİLRERE GÖRE LİSTELEME VE TIKLANDIĞINDA FİLTRELEYEREK YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KLİNİKLER-> FİLTREYE GÖRE KLİNİKLER/HASTANELER",
-    "yetenek": "HASTANELER",
-    "aciklama": "FİLTREYE GÖRE HASTANE PROFİLLERİ LİSTELEME"
-  },
-  {
-    "sayfaAdi": "HİZMETLER",
-    "yetenek": "SON ZAMANLARDA ARANAN HİZMETLER",
-    "aciklama": "SON ZAMANLARDA ARANAN HİZMETLER VE SUNULAN HİZMETLERİN LİSTELENMESİ"
-  },
-  {
-    "sayfaAdi": "HİZMETLER",
-    "yetenek": "BENZER HİZMETLER",
-    "aciklama": "BENZER HİZMETLER VE A'DAN Z'YE TÜM HİZMETLERİN LİSTELENMESİ"
-  },
-  {
-    "sayfaAdi": "HİZMETLER -> FİLTRELENDİKTEN SONRA",
-    "yetenek": "BİLGİ",
-    "aciklama": "SEÇİLEN HİZMET İLE İLGİLİ DOKTORLARIN PROFİLLERİ VE SEÇİM SONUCU PROFİL YÖNLENDİRMESİ, PROFİL ALTLARINDA RANDEVU AL BUTONUYLA  RANDEVU YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "HİZMETLER -> FİLTRELENDİKTEN SONRA",
-    "yetenek": "BU HİZMETİ HANGİ PROFESYONELLER GERÇEKLEŞTİRİR",
-    "aciklama": "SEÇİLEN HİZMETİ HANGİ PROFESYONELLERİN GERÇEKLEŞTİRECEĞİNİ LİSTELEME VE SEÇİM SONUCU BİLGİ KISMINI FİLTRELEME"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR",
-    "yetenek": "YAKIN ZAMANDA ARANAN HASTALIKLAR",
-    "aciklama": "YAKIN ZAMANLARDA ARANAN HASYALIKLARIN LİSTELENMESİ"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR",
-    "yetenek": "BENZER HASTALIKLAR",
-    "aciklama": "BENZER HASTALIKLAR VE A'DAN Z'YE TÜM HASTALIKLARIN LİSTELNEMESİ"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA",
-    "yetenek": "UZMANLARI GÖSTER",
-    "aciklama": "HASTALIK İLE İLGİLİ UZMANLARI FİLTRELEYİP LİSTELEME EKRANINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA",
-    "yetenek": "UZMANLAR",
-    "aciklama": "HASTALIK İLE İLGİLİ UZMANLARI LİSTELEME VE TIKLANDIĞINDA PROFİLE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA",
-    "yetenek": "BU HASTALIĞI HANGİ PROFESYONLLER GERÇEKLEŞTİRİR",
-    "aciklama": "SEÇİLEN HASTALIĞI HANGİ PROFESYONELLERİN GERÇEKLEŞTİRECEĞİNİ LİSTELEME VE SEÇİM SONUCU  FİLTRELEME"
-  },
-  {
-    "sayfaAdi": "HASTALIKLAR -> UZMANLARI GÖSTER",
-    "yetenek": "HASTALIKLA İLGİLİ UZMANLAR",
-    "aciklama": "ARAMA KISMINDA ÇALIŞAN SAYFADA HASTALIK FİLTRELEMESİ YAPIP İLGİLİ UZMANLARIN LİSTELENMESİ"
-  },
-  {
-    "sayfaAdi": "MOBİL UYGULAMALAR",
-    "yetenek": "QR KOD VE UYGULAMA LİNKİ",
-    "aciklama": "MOBİL UYGULAMAYA YÖNLENDİRME LİNKLERİ VE QR KOD"
-  },
-  {
-    "sayfaAdi": "HASTALARA YÖNELİK BLOG",
-    "yetenek": "TÜM MAKALELER",
-    "aciklama": "MAKALE LİSTELERİ VE TIKLANDIĞINDA MAKALE İÇERİĞİNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTALARA YÖNELİK BLOG",
-    "yetenek": "UZMANLIK ALANLARI",
-    "aciklama": "UZMANLIK ALANLARI LİSTESİ VE TIKLANDIĞINDA UZMANLIK ALANLARINA GÖRE MAKALE FİLTRELEME"
-  },
-  {
-    "sayfaAdi": "MAKALE DETAY",
-    "yetenek": "MAKALE İÇERİK",
-    "aciklama": "MAKALE METNİ"
-  },
-  {
-    "sayfaAdi": "MAKALE DETAY",
-    "yetenek": "MAKALE YAZARI",
-    "aciklama": "MAKALE YAZARI BİLGİİ , PROFİLİNE YÖNLENDİRME VE RANDEVU ALMA BUTONLARI"
-  },
-  {
-    "sayfaAdi": "MAKALE DETAY",
-    "yetenek": "BENZER MAKALELER",
-    "aciklama": "BENZER MAKALELERİN LİSTESİ VE TIKLANDIĞINDA MAKALEYE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "MAKALE DETAY",
-    "yetenek": "YORUMLAR",
-    "aciklama": "MAKALEYE YAPILAN YORUMLAR VE YORUM EKLEME"
-  },
-  {
-    "sayfaAdi": "TAKVİM",
-    "yetenek": "TAKVİMİ ETKİNLEŞTİRİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TAKVİM",
-    "yetenek": "TEKLİFİNİZİ ALIN",
-    "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TAKVİM",
-    "yetenek": "VİDEO",
-    "aciklama": "TANITIM VİDEOSU OYNATMA"
-  },
-  {
-    "sayfaAdi": "TAKVİM",
-    "yetenek": "TEKLİF ALMA",
-    "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI"
-  },
-  {
-    "sayfaAdi": "TAKVİMİ ETKİNLEŞTİRİN",
-    "yetenek": "PLAN SEÇİMİ",
-    "aciklama": "PLAN BİLGİLERİ VE SEÇİMİ SONUCUNDA ÖDEME KISMINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TAKVİMİ ETKİNLEŞTİRİN",
-    "yetenek": "SORUNUZ MU VAR",
-    "aciklama": "BİLGİ ALINMAK İSTENMESİ DURUMUNDA DOLDURULACAK BİR KISIM VE GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "MESAJLAR",
-    "yetenek": "MESAJLARI AKTİVE EDİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "MESAJLAR",
-    "yetenek": "TEKLİFİNİZİ ALIN",
-    "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "MESAJLARI AKTİVE EDİN",
-    "yetenek": "PLAN SATIN ALMA SAYFASI",
-    "aciklama": "PLAN BİLGİLERİ VE SEÇİMİ SONUCUNDA ÖDEME KISMINA YÖNLENDİRME VE SORUNUZ MU VAR KISMI"
-  },
-  {
-    "sayfaAdi": "HASTALAR",
-    "yetenek": "HASTA KAYDINI AKTİVE EDİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTALAR",
-    "yetenek": "TEKLİFİNİZİ ALIN",
-    "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTALAR",
-    "yetenek": "TEKLİFİNİZİ ALMA",
-    "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI"
-  },
-  {
-    "sayfaAdi": "RAPORLAR",
-    "yetenek": "KONTROL PANELİNİ AKTİVE EDİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "RAPORLAR",
-    "yetenek": "TEKLİFİNİZİ ALIN",
-    "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "RAPORLAR",
-    "yetenek": "TEKLİFİNİZİ ALMA",
-    "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI"
-  },
-  {
-    "sayfaAdi": "TOPLU MAİL/SMS",
-    "yetenek": "TOPLU E-POSTA/SMS'LERİ AKTİVE EDİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TOPLU MAİL/SMS",
-    "yetenek": "TEKLİFİNİZİ ALIN",
-    "aciklama": "TEKLİF ALMAK İÇİN SAYFANIN ALTINDAKİ İLETİŞİM BÖLÜMÜNE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TOPLU MAİL/SMS",
-    "yetenek": "TEKLİFİNİZİ ALMA",
-    "aciklama": "TEKLİF ALMAK İÇİN TELEFON VE ARAMA ZAMANINI BELİRTİP GÖNDERME ALANI"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "PROFİLİ DÜZENLE",
-    "aciklama": "PROFİLİ DÜZENLE SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "ADRESLER",
-    "aciklama": "ADRESLER SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "KULLANICILAR",
-    "aciklama": "KULLANICILAR SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "İSTATİSTİKLER",
-    "aciklama": "İSTATİSTİKLER SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "PROFİLİNİZ",
-    "aciklama": "PROFİL (ARAMA PANELİNDEN ULAŞILAN) SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "WEB SİTEM",
-    "aciklama": "WEB SİTEM SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "WEB SİTENİZ İÇİN ROZET",
-    "aciklama": "WEB SİTENİZ İÇİN ROZET SAYFASI YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİM (UZMAN)",
-    "yetenek": "ONLİNE RANDEVU TAKVİMİNİ ETKİNLEŞTİRİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "FOTOĞRAF EKLEME",
-    "aciklama": "FOTOĞRAF EKLEMEK İÇİN MODAL AÇMA"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "DETAYLARI ÖĞRENİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "BİLGİLERİNİZ",
-    "aciklama": "UNVAN , AD ,SOYAD , İHTİSASLAR İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "CİNSİYET",
-    "aciklama": "CİNSİYET SEÇİMİ"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "FOTOĞRAFLAR",
-    "aciklama": "FOTOĞRAF EKLEMEK İÇİN MODAL AÇMA"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "SERTİFİKALAR",
-    "aciklama": "SERTİFİKA EKLEMEK İÇİN MODAL AÇMA"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "HAKKIMDA",
-    "aciklama": "HAKKIMDA BİLGİSİ İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "SOSYAL MEDYA HESAPLARI",
-    "aciklama": "SOSYAL MEDYA HESAPLARI İÇİN İNPUTLAR"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "HASTALIKLAR",
-    "aciklama": "TEDAVİ EDİLEN HASTALIKLARI EKLEMEK İÇİN AÇILAN MODAL"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "OKULLAR / EĞİTİMLER",
-    "aciklama": "OKUL VEYA EĞİTİM EKLEMEK İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "YAYINLAR",
-    "aciklama": "YAYIN EKLEMEK İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "ÖDÜLLER",
-    "aciklama": "ÖDÜL EKLEMEK İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "DENEYİMLER",
-    "aciklama": "DENEYİM EKLEMEK İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "UZMAN PROFİLİ",
-    "yetenek": "BİLİNEN DİLLER",
-    "aciklama": "DİL SEÇİMİ VE EKLEME"
-  },
-  {
-    "sayfaAdi": "PROFİL FOTOĞRAFI EKLEME",
-    "yetenek": "FOTOĞRAF EKLEME MODALI",
-    "aciklama": "DOSYA SEÇİMİ VE PROFİL FOTOĞRAFI EKLEME"
-  },
-  {
-    "sayfaAdi": "FOTOĞRAFI EKLEME",
-    "yetenek": "FOTOĞRAF EKLEME MODALI",
-    "aciklama": "DOSYA SEÇİMİ VE  FOTOĞRAF EKLEME"
-  },
-  {
-    "sayfaAdi": "SERTİFİKA EKLEME",
-    "yetenek": "SERTİFİKA EKLEME MODALI",
-    "aciklama": "DOSYA SEÇİMİ VE  SERTİFİKA EKLEME"
-  },
-  {
-    "sayfaAdi": "TEDAVİ EDİLEN HASTALIKLARI EKLEME",
-    "yetenek": "TEDAVİLER",
-    "aciklama": "TEDAVİ SEÇİMİ VE KAYDETME BUTONU"
-  },
-  {
-    "sayfaAdi": "ADRESLER",
-    "yetenek": "EKLENEN ADRESLER",
-    "aciklama": "EKLENEN ADRES BİLGİLERİ"
-  },
-  {
-    "sayfaAdi": "ADRESLER",
-    "yetenek": "ADRES DÜZENLEME",
-    "aciklama": "ADRES DÜZENLEME YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "ADRESLER",
-    "yetenek": "ADRES EKLEME",
-    "aciklama": "YENİ ADRES EKLEME YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "ADRESLER",
-    "yetenek": "TAKVİMİ ETKİNLEŞTİRİN",
-    "aciklama": "TAKVİM ETKİNLEŞTİRME VE BİLGİ ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "İNPUTLAR",
-    "aciklama": "ADRES ADI , CADDE , İLÇE , ŞEHİR, POSTA KODU , KURUM TELEFON NUMARASI , EK TELEFON NUMARASI İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "HAREKETİ KISITLI KİŞİLER İÇİN ERİŞEBİLİRLİK SEÇENEKLERİ",
-    "aciklama": "HAREKETİ KISITLI KİŞİLER İÇİN ERİŞEBİLİRLİK SEÇENEKLERİ ARASINDAN SEÇİM YAPMA"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "YOL TARİFİ VE PARK",
-    "aciklama": "YOL TARİFİ VE PARK HAKKINDA BİLGİ VERME İNPUTU"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "ÖDEME YÖNTEMLERİ",
-    "aciklama": "ÖDEME YÖNTEMİ SEÇİMİ VE EKLEME"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "HİZMETLER",
-    "aciklama": "HİZMET EKLEME MODALININ AÇILMASI"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "DİĞER BİLGİLER",
-    "aciklama": "VERİLEN SEÇENEKLERDEN SEÇİM YAPMA"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME",
-    "yetenek": "KAYDET,İPTAL",
-    "aciklama": "DEĞİŞİKLİKLERİ KAYDET BUTONU VE İPTAL BUTONU"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME -> HİZMETLER EKLEME",
-    "yetenek": "HİZMETLER SİHİRBAZI",
-    "aciklama": "HİZMETLERDEN SEÇİM YAPIP KAYDETMEK İÇİN MODAL"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "İNPUTLAR",
-    "aciklama": "ADRES ADI,KURUM TELEFON NUMARASI , EK TELEFON NUMARASI"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "HAREKETİ KISITLI KİŞİLER İÇİN ERİŞEBİLİRLİK SEÇENEKLERİ",
-    "aciklama": "HAREKETİ KISITLI KİŞİLER İÇİN ERİŞEBİLİRLİK SEÇENEKLERİ ARASINDAN SEÇİM YAPMA"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "ONLİNE GÖRÜŞME İÇİN DETAYLAR",
-    "aciklama": "ONLİNE GÖRÜŞME DETAYLARINI YAZMAK İÇİN İNPUT"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "ÖDEME YÖNTEMLERİ",
-    "aciklama": "ÖDEME YÖNTEMİ SEÇİMİ VE EKLEME"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "DİĞER BİLGİLER",
-    "aciklama": "VERİLEN SEÇENEKLERDEN SEÇİM YAPMA"
-  },
-  {
-    "sayfaAdi": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME",
-    "yetenek": "KAYDET,İPTAL",
-    "aciklama": "DEĞİŞİKLİKLERİ KAYDET BUTONU VE İPTAL BUTONU"
-  },
-  {
-    "sayfaAdi": "KULLANICILAR",
-    "yetenek": "EKLENMİŞ KULLANICILAR",
-    "aciklama": "EKLENMİŞ KULLANICILARI GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "KULLANICILAR",
-    "yetenek": "KULLANICI EKLE",
-    "aciklama": "İNPUT VE EKLE BUTONU İLE KULLANICI EKLEME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "BU SAYIYI ARTIRMAK İSTER MİSİNİZ",
-    "aciklama": "PROFESYONEL ÜYE OLMA REKLAMINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "RANDEVU TAKVİMİNİZİ ETKİNLEŞTİRİN",
-    "aciklama": "AKILLI TAKVİM REKLAMINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "TELEFONLA RANDEVU ALMALARINI İSTER MİYDİNİZ",
-    "aciklama": "AKILLI RANDEVU REKLAMINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "PROFİLİNİZİ ZİYARET EDEN HASTA DANIŞAN SAYISI",
-    "aciklama": "PROFİLİNİZİ ZİYARET EDEN HASTA DANIŞAN SAYISI GRAFİĞİNİ GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "HASTALAR DANIŞANLAR TARAFINDAN ALINAN RANDEVULAR",
-    "aciklama": "BU GRAFİĞİ GÖRÜNTÜLEMEK İÇİN TIKLANDIĞINDA PROFESYONEL ÜYELİĞE GEÇİN BUTONU ÇIKIYOR VE REKLAMA YÖNLENDİRİYOR"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "ONLİNE İTİBARINIZI TEK ADIMDA OLUŞTURUN! HEMEN BAŞLAYIN",
-    "aciklama": "TOPLU SMS REKLAMINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "SON EKLENEN GÖRÜŞLER",
-    "aciklama": "SON EKLENE  GÖRÜŞLERİ GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "PROFİL DOLULUĞU",
-    "aciklama": "PROFİL DOLULUĞUNU GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "İSTATİSTİKLER",
-    "yetenek": "PROFİL EKSİKLERİ EKLEME",
-    "aciklama": "PROFİL EKSİKLERİNİ EKLEMEK İÇİN PROFİLE YÖNLENDİREN LİNKLER"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "İLETİŞİM BİLGİLERİ",
-    "aciklama": "İLETİŞİM BİLGİLERİNİ İÇEREN MODAL AÇMA"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "BİLGİLERİNİZİ DÜZENLEYİN",
-    "aciklama": "BİLGİLERİNİZİ DÜZENLEMENİZ İÇİN PROFİL DÜZENLEME SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "ONLİNE RANDEVU TAKVİMİNİ ETKİNLEŞTİRİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "ADRES",
-    "aciklama": "ADRES BİLGİSİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "ÖZGEÇMİŞ",
-    "aciklama": "ÖZGEÇMİŞ BİLGİSİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ADRESLER",
-    "yetenek": "GÖRÜŞLER VE İSTATİSTİKLER",
-    "aciklama": "GÖRÜŞLER VE GÖRÜŞLER HAKKINDAKİ İSTATİSTİKLER"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> İLETİŞİM BİLGİLERİ",
-    "yetenek": "İLETİŞİM BİLGİLERİ MODALI",
-    "aciklama": "İLETİŞİM BİLGİLERİNİ İÇEREN MODAL AÇMA"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> HİZMETLER",
-    "yetenek": "HİZMETLER",
-    "aciklama": "HİZMETLER BİLGİSİ"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> GÖRÜŞLER",
-    "yetenek": "GÖRÜŞLER",
-    "aciklama": "PROFİLLE İLGİLİ GÖRÜŞLER VE İSTATİSTİKLER"
-  },
-  {
-    "sayfaAdi": "PROFİLİNİZ -> ÖZGEÇMİŞ",
-    "yetenek": "ÖZGEÇMİŞ",
-    "aciklama": "ÖZGEÇMİŞ BİLGİLERİ VE GÖSTERMEK İÇİN PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "WEBSİTEM",
-    "yetenek": "PROFESYONEL ÜYE OLUN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PLANLARIMIZ",
-    "yetenek": "PLAN SAYFASI",
-    "aciklama": "PLAN SATIN ALMA SAYFASI"
-  },
-  {
-    "sayfaAdi": "HABERLER",
-    "yetenek": "MESAJ BLOĞU İÇİNDE SON HABERLER",
-    "aciklama": "HABER BİLGİLERİNİN ÖZETİ VE YÖNLENDİRMESİ"
-  },
-  {
-    "sayfaAdi": "HABERLER",
-    "yetenek": "GÖRÜŞ PAYLAŞMA",
-    "aciklama": "HABER İLE İLGİLİ GÖRÜŞ PAYLAŞMA İNPUTU"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "AD,SOYAD,TELEFON",
-    "aciklama": "AD,SOYAD,TELEFON İÇİN İNPUTLAR"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "ŞİFRE DEĞİŞTİRME",
-    "aciklama": "ŞİFRE DEĞİŞTİRMEK İÇİN YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "BİLDİRİMLER",
-    "aciklama": "BİLDİRİM ALMA İLE İLGİLİ CHECKBOX"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "İMZA DEĞİŞTİR",
-    "aciklama": "İMZA DEĞİŞTİRME İNPUTU"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "EMAİL DEĞİŞTİRME",
-    "aciklama": "EMAİL DEĞİŞTİRME İÇİN YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "KAYDET,İPTAL",
-    "aciklama": "KAYDETME BUTONU,İPTAL ETME BUTONU"
-  },
-  {
-    "sayfaAdi": "HESABIM",
-    "yetenek": "KULLANICI HESABIMI SİL",
-    "aciklama": "HESAP SİLME"
-  },
-  {
-    "sayfaAdi": "ŞİFRE DEĞİŞTİR",
-    "yetenek": "ESKİ ŞİFRE,YENİ ŞİFRE, YENİ ŞİFRE TEKRAR",
-    "aciklama": "ESKİ ŞİFRE,YENİ ŞİFRE, YENİ ŞİFRE TEKRAR İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "ŞİFRE DEĞİŞTİR",
-    "yetenek": "GÖNDER",
-    "aciklama": "GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİRME",
-    "yetenek": "EPOSTA,ŞİFRE",
-    "aciklama": "EPOSTA,ŞİFRE İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİRME",
-    "yetenek": "KAYDET",
-    "aciklama": "KAYDET BUTONU"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİRME",
-    "yetenek": "ŞİFRENİZİ Mİ UNUTTUNUZ",
-    "aciklama": "ŞİFRENİZİ Mİ UNUTTUNUZ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR ZİYARETLERİM",
-    "yetenek": "RANDEVULAR",
-    "aciklama": "RANDEVULARI GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "VERİ GİZLİLİĞİ",
-    "yetenek": "VERİ GİZLİLİĞİ EKRANI",
-    "aciklama": "DAHA FAZLA ÖĞREN VE VERİ GİZLİLİĞİ METNİ İÇEREN SAYFA (DAHA ÖNCE GEÇTİ)"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "AD , SOYAD , TELEFON",
-    "aciklama": "AD , SOYAD , TELEFON İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "ŞİFRE DEĞİŞTİRME",
-    "aciklama": "ŞİFRE DEĞİŞTİRME SAYFASIA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "İMZA DEĞİŞTİR",
-    "aciklama": "İMZA DEĞİŞTİR İNPUTU"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "EPOSTA DEĞİŞTİRME",
-    "aciklama": "EPOSTA DEĞİŞTİRME SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "KAYDET,İPTAL",
-    "aciklama": "KAYDET VE İPTAL BUTONLARI"
-  },
-  {
-    "sayfaAdi": "HASTA PROFİLİ -> HESABIM",
-    "yetenek": "KULLANICI HESABIMI SİL",
-    "aciklama": "KULLANICI HESABINI SİLME"
-  },
-  {
-    "sayfaAdi": "ŞİFRE DEĞİŞTİR",
-    "yetenek": "ESKİ ŞİFRE,YENİ ŞİFRE, YENİ ŞİFRE TEKRAR",
-    "aciklama": "ESKİ ŞİFRE , YENİ ŞİFRE VE YENİ ŞİFRE TEKRAR İNPUTLARI"
-  },
-  {
-    "sayfaAdi": "ŞİFRE DEĞİŞTİR",
-    "yetenek": "GÖNDER",
-    "aciklama": "GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİR",
-    "yetenek": "EPOSTA VE ŞİFRE",
-    "aciklama": "EPOSTA VE ŞİFRE İNPUTU"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİR",
-    "yetenek": "KAYDET BUTONU",
-    "aciklama": "KAYDETME"
-  },
-  {
-    "sayfaAdi": "E-POSTA DEĞİŞTİR",
-    "yetenek": "ŞİFRENİZİ Mİ UNUTTUNUZ",
-    "aciklama": "ŞİFRENİZİ Mİ UNUTTUNUZ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HESABIM->RANDEVULARIM",
-    "yetenek": "RANDEVU BİLGİSİ",
-    "aciklama": "RANDEVULARI GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "HESABIM->KAYITLI UZMANLAR",
-    "yetenek": "KAYDEDİLEN UZMANLAR",
-    "aciklama": "KAYDEDİLEN UZMANLARI GÖRÜNTÜLEME"
-  },
-  {
-    "sayfaAdi": "HESABIM-> BİLDİRİM TERCİHLERİ",
-    "yetenek": "TELEFON, EPOSTA",
-    "aciklama": "TELEFON , EPOSTA İNPUTLARI (YENİ HİZMET VE ÜRÜNLERLE İLGİLİ HABERLER HAKKINDA BİLGİ ALMAK İÇİN)"
-  },
-  {
-    "sayfaAdi": "HESABIM-> BİLDİRİM TERCİHLERİ",
-    "yetenek": "TELEFON, EPOSTA",
-    "aciklama": "TELEFON , EPOSTA İNPUTLARI(KİŞİSELLEŞTİRİLMİŞ BİLDİRİMLER İÇİN)"
-  },
-  {
-    "sayfaAdi": "HESABIM-> SOSYAL MEDYA HESAPLARI",
-    "yetenek": "GOOGLE BAĞLAN",
-    "aciklama": "GOOGLE HESABINA BAĞLANMAK İÇİN YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HESABIM-> SOSYAL MEDYA HESAPLARI",
-    "yetenek": "APPLE BAĞLAN",
-    "aciklama": "APPLE HESABINA BAĞLANMAK İÇİN YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "MENÜ: ÇÖZÜMLERİMİZ,ÜRÜNLERİMİZ,FİYATLANDIRMA,BAŞARI HİKAYELERİ,ÜCRETSİZ KAYNAKLAR",
-    "aciklama": "MENÜ BAĞLANTILARI FARKLI SAYFALARA YÖNLENDİRİR"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "İLETİŞİME GEÇİN",
-    "aciklama": "İLETİŞİM SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "KAYIT OL",
-    "aciklama": "KAYIT OL SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "PROFESYONEL PROFİLE GEÇİN",
-    "aciklama": "PLAN SATIN ALMA SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "HAFTADA 10 SAAT TASARRUF HAKKINDA DAHA FAZLA BİLGİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "HEKİM VE UZMANLAR İÇİN",
-    "aciklama": "UZMANLAR İÇİN FIRSATLAR HAKKINDA İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO",
-    "yetenek": "HASTANE VE SAĞLIK KURULUŞLARI İÇİN",
-    "aciklama": "HASTANE VE SAĞLIK KURULUŞLARI İÇİN FIRSATLAR HAKKINDA İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "İLETİŞİME GEÇİN",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "SAYFA  ALTINDAKİ İLETİŞİME GEÇİN FORMUNA YÖNLENDİRİR"
-  },
-  {
-    "sayfaAdi": "İLETİŞİME GEÇİN",
-    "yetenek": "WEBSİTEMİZE GÖZ ATIN",
-    "aciklama": "ANASAYFAYA YÖNLENDİRİR"
-  },
-  {
-    "sayfaAdi": "İLETİŞİME GEÇİN",
-    "yetenek": "OFİS İÇİN YOL TARİFİ",
-    "aciklama": "HARİTALARA YÖNLENDİRİR"
-  },
-  {
-    "sayfaAdi": "İLETİŞİME GEÇİN",
-    "yetenek": "İLETİŞİM FORMU",
-    "aciklama": "İLETİŞİME GEÇMEK İÇİN  FORM VE GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "MESAJ PANOSU",
-    "yetenek": "MESAJ PANOSU",
-    "aciklama": "MESAJ GÖNDERMEK VE OKUMAK İÇİN BİR MODAL"
-  },
-  {
-    "sayfaAdi": "TEKLİFİNİZİ ÖĞRENİN",
-    "yetenek": "İLETİŞİM İÇİN GEREKLİ FORM İNPUTLARI",
-    "aciklama": "TELEFON , E-POSTA , SİZİ NE ZAMAN ARAYALIM İNPUTLARI , KİMSİNİZ SELECTİ VE KVVKK ONAY CHECKBOX'I"
-  },
-  {
-    "sayfaAdi": "TEKLİFİNİZİ ÖĞRENİN",
-    "yetenek": "GÖNDER",
-    "aciklama": "GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ",
-    "yetenek": "DEVAMINI OKUYUN",
-    "aciklama": "BAŞARI HİKAYELERİ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ",
-    "yetenek": "ZAMAN KAZANMA DAHA FAZLA BİLGİ",
-    "aciklama": "ZAMANDAN TASARRUF SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ",
-    "yetenek": "ONLİNE GÖRÜNÜRLÜK DAHA FAZLA BİLGİ",
-    "aciklama": "EKSİKSİZ ONLİNE GÖRÜNÜRLÜK SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "DAHA FAZLA HASTA DANIŞAN MUHAFAZA EDİN DAHA FAZLA BİLGİ",
-    "aciklama": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "İŞ AKIŞI DAHA FAZLA BİLGİ",
-    "aciklama": "İŞ AKIŞINIZI MÜKEMMELLEŞTİRİN SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "ONLİNE GÖRÜNÜRLÜK DAHA FAZLA BİLGİ",
-    "aciklama": "EKSİKSİZ ONLİNE GÖRÜNÜRLÜK SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR",
-    "yetenek": "ONLİNE GÖRÜNÜRLÜK DAHA FAZLA BİLGİ",
-    "aciklama": "EKSİKSİZ ONLİNE GÖRÜNÜRLÜK SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KURUMLAR",
-    "yetenek": "KURUMUNUZA ÖZEL TEKLİFİNİZ ALIN",
-    "aciklama": "KURUMA ÖZEL TEKLİF SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KURUMLAR",
-    "yetenek": "DETAYLARI ÖĞRENİN",
-    "aciklama": "SAYFA İÇİNDEKİ BİLGİLERE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KURUMLAR",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KURUMA ÖZEL TEKLİF",
-    "yetenek": "KURUMA ÖZEL TEKLİF ALMAK İÇİN BİR FORM VE FORMUN İNPUT LARI , SELECTLERİ",
-    "aciklama": "EPOSTA ADRESİ , TELEFON NUMARASI , SİZİ NE ZAMAN ARAYALIM İÇİN İNPUTLAR , KİMSİNİZ İÇİN SELECT VE KVKK ONAYI İÇİN CHECBOX MEVCUT"
-  },
-  {
-    "sayfaAdi": "KURUMA ÖZEL TEKLİF",
-    "yetenek": "GÖNDER",
-    "aciklama": "GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "ÜRÜNLERİMİZ",
-    "yetenek": "HEKİM VE UZMANLAR İÇİN DOKTORTAKVİMİ PROFESYONEL ÜYELİĞİ HAKKINDA DAHA FAZLA BİLGİ EDİNİN",
-    "aciklama": "DOKTORTAKVİMİPRO PROFESYONEL ÜYELİK  BİLGİ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÜRÜNLERİMİZ",
-    "yetenek": "KUSURSUZ YARDIMCININ ÖZELLİKLERİNİ KEŞFEDİN",
-    "aciklama": "DOKTORTAKVİMİPRO ÖZELLİKLERİ SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÜRÜNLERİMİZ",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR İÇİN DOKTORTAKVİMİPRO",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR İÇİN DOKTORTAKVİMİPRO",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "DEMO TALEP ETME SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HEKİM VE UZMANLAR İÇİN DOKTORTAKVİMİPRO",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "7/24 ONLİNE RANDEVU ALIMI",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "OTOMATİK HATIRLATICILAR VE ONAY",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "ONLİNE DANIŞMANLIK",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "E-POSTA VE SMSM KAMPANYALARI",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "ÇAĞRI MERKEZİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "PROFESYONEL ÜYELİK",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "ONLİNE ÖDEME, E-FATURA VE DANIŞAN TAKİBİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "MEDİKAL TAKİP",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "PROFESYONEL WEB SİTESİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "KUSURSUZ YARDIMCI",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "7/24 ONLİNE RANDEVU",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "7/24 ONLİNE RANDEVU",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "7/24 ONLİNE RANDEVU",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "OTOMATİK HATIRLATICILAR",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "OTOMATİK HATIRLATICILAR",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ONLİNE DANIŞMANLIK",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ONLİNE DANIŞMANLIK",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "E-POSTA VE SMS KAMPANYALARI",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "E-POSTA VE SMS KAMPANYALARI",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÇAĞRI MERKEZİ",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÇAĞRI MERKEZİ",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFESYONEL ÜYELİK",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFESYONEL ÜYELİK",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DİJİTAL HİZMETLERİMİZLE TANIŞIN",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DİJİTAL HİZMETLERİMİZLE TANIŞIN",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "MEDİKAL TAKİP",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "MEDİKAL TAKİP",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFESYONEL WEB SİTESİ",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "PROFESYONEL WEB SİTESİ",
-    "yetenek": "TANITIMI İZLEYİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "7/24 ONLİNE RANDEVU ALIMI",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "OTOMATİK HATIRLATICILAR VE ONAY",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "ONLİNE DANIŞMANLIK",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "E-POSTA VE SMS KAMPANYALARI",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "ÇAĞRI MERKEZİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "PROFESYONEL ÜYELİK",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "ONLİNE ÖDEME, E-FATURA VE DANIŞAN TAKİBİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "MEDİKAL TAKİP",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "PROFESYONEL WEB SİTESİ",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TÜM ÜRÜNLERİMİZ",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA HEKİM VE UZMANLAR",
-    "yetenek": "STARTER , PLUS , VİP PLANLAR",
-    "aciklama": "PLANI SEÇİN BUTONLARI İLE YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA HEKİM VE UZMANLAR",
-    "yetenek": "BİZİMLE İLETİŞİME GEÇİN",
-    "aciklama": "SAYFA ALTINDAKİ FORMA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA HEKİM VE UZMANLAR",
-    "yetenek": "DAHA FAZLASINI KEŞFET",
-    "aciklama": "YAZILIM ÇÖZÜMLERİ İÇİN İLETİŞİME GEÇİN SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA HEKİM VE UZMANLAR",
-    "yetenek": "AKLINIZA AKILAN SORU MU VAR FORMU",
-    "aciklama": "TELEOFN NO, EPOSTA ADRESİ , KİMSİNİZ SELECTİ VE SİZİ NE ZAMAN ARAYALIM SORULARI İLE İLETİŞİM FORMU"
-  },
-  {
-    "sayfaAdi": "YAZILIM ÇÖZÜMLERİ İÇİN İLETİŞİME GEÇİN",
-    "yetenek": "TELEOFN NO, EPOSTA ADRESİ , KİMSİNİZ SELECTİ VE SİZİ NE ZAMAN ARAYALIM SORULARI İLE İLETİŞİM FORMU",
-    "aciklama": "GÖNDER BUTONUNA BASILINCA İLETİŞİM BİLGİLERİ İLETİLECEK BİR FORM"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA KURUMLAR",
-    "yetenek": "KURUMUNUZA ÖZEL TEKLİFİNİZ ALIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "FİYATLANDIRMA KURUMLAR",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "BAŞARI HİKAYELERİ",
-    "yetenek": "BAŞARI HİKAYELERİ MAKALELERİ",
-    "aciklama": "MAKALE ÖZETLERİ TIKLAMA İLE MAKALE DETAYINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "DEMO TALEP EDİN",
-    "yetenek": "FORM VE İZLEYİN BUTONU",
-    "aciklama": "TELEFON NO VE KİMSİNİZ SORULARINION CEVAPLANACAĞI BİR FORM VE ALTINDA İZLEYİN BUTONU"
-  },
-  {
-    "sayfaAdi": "ÜCRETSİZ KAYNAKLAR BLOG -> YAZARIN DİĞER MAKALELERİ",
-    "yetenek": "YAZARA AİT MAKALELERLE FİLTRELENMİŞ BLOG EKRANI",
-    "aciklama": "BLOG EKRANININ AYNISI"
-  },
-  {
-    "sayfaAdi": "ÜCRETSİZ KAYNAKLAR İNFOGRAFİKLER -> İÇERİĞİ-> İSTİYORUM",
-    "yetenek": "FORM VE BUTON",
-    "aciklama": "FORMDA YER ALAN SİZİ NE ZAMAN ARAYALIM İNPUTU VE GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "ÜCRETSİZ KAYNAKLAR ->MÜŞTERİLERİMİZLE NASIL ÇALIŞIYORUZ?",
-    "yetenek": "BİZE ULAŞIN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÜCRETSİZ KAYNAKLAR ->MÜŞTERİLERİMİZLE NASIL ÇALIŞIYORUZ?",
-    "yetenek": "TEKLİFİNİZİ ÖĞRENİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "ÜCRETSİZ KAYNAKLAR ->HASTA DANIŞAN VERİLERİNİ NASIL KORUYORUZ?",
-    "yetenek": "GERİ",
-    "aciklama": "GERİ BUTONU YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "TANITIMI İZLEYİN",
-    "yetenek": "PLANLAR",
-    "aciklama": "PLAN SEÇENEKLERİ"
-  },
-  {
-    "sayfaAdi": "TANITIMI İZLEYİN",
-    "yetenek": "SORUNUZ MU VAR FORMU",
-    "aciklama": "E-POSTA ADRESİ , KİMSİNİZ SORUSU , TELEFON NUMARASI VE SİZİ NE ZAMAN ARAYALIM SORUSU İLE GÖNDER BUTONU"
-  },
-  {
-    "sayfaAdi": "BİZE ULAŞIN",
-    "yetenek": "İLETİŞİM FORMU",
-    "aciklama": "İLETİŞİME GEÇMEK İÇİN FORM"
-  },
-  {
-    "sayfaAdi": "HAKKIMIZDA",
-    "yetenek": "SAĞLIK UZMANLARI İÇİN DAHA FAZLA BİLGİ AL",
-    "aciklama": "UZMANLAR İÇİN SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "HAKKIMIZDA",
-    "yetenek": "SAĞLIK KURULUŞLARI İÇİN",
-    "aciklama": "SAĞLIK KURULUŞLARI İÇİN SAYFASINA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "YARDIM MERKEZİ",
-    "yetenek": "SORULAR",
-    "aciklama": "SORULARA TIKLANINCA CEVAPLARA YÖNLENDİRME"
-  },
-  {
-    "sayfaAdi": "SORU VE CEVABI",
-    "yetenek": "MAKALE BEĞENME , BEĞENMEME",
-    "aciklama": "BUTONLARA TIKLANDIĞINDA MAKALE DEĞERLENDİRME"
-  },
-  {
-    "sayfaAdi": "BİZİMLE İLETİŞİME GEÇİN",
+    "sayfaAdi": "DOKTOR ÜYELİĞİ",
     "yetenek": "FORM",
-    "aciklama": "KİM OLDUĞUNUZU BELİRTİN , EPOSTA ADRESİ VE İÇERİK KISMI ARDINDAN GÖNDER BUTONU"
+    "aciklama": "AD,SOYAD,E-POSTA,TELEFON NO ,, ŞEHİR SEÇİMİ , ÜNVAN SEÇİMİ  , BRANŞ SEÇİMİ ,DİPLOMA YÜKLEME , ONAY CHECKBOXLARI VE GÖNDER BUTONU İLE ÜYE OLMA"
   },
   {
-    "sayfaAdi": "BİZİMLE İLETİŞİME GEÇİN",
-    "yetenek": "HEKİM VE UZMANLAR İÇİN",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
+    "sayfaAdi": "HESABIM UZMAN",
+    "yetenek": "YAKLAŞAN RANDEVULAR",
+    "aciklama": "RANDEVU SAYISI GÖRÜNTÜLEME VE TIKLAMA İLE YÖNLENDİRME"
   },
   {
-    "sayfaAdi": "BİZİMLE İLETİŞİME GEÇİN",
-    "yetenek": "SİTENİN ÇALIŞMASI İLE İLGİLİ SORULAR",
-    "aciklama": "İLGİLİ SAYFAYA YÖNLENDİRME"
+    "sayfaAdi": "MAKALE YAYINLAMA",
+    "yetenek": "MAKALE FORMU",
+    "aciklama": "MAKALE BAŞLIĞI\nBRANİ SEÇİMİ\nİLGİ ALANLARI\nMAKALE ÖZETİ\nMAKALE İÇERİĞİ\nETİKET EKLEME\nFOTOĞRAF EKLEME\nKAYDET BUTONU"
+  },
+  {
+    "sayfaAdi": "RANDEVU DETAYI GÖRÜNTÜLEME",
+    "yetenek": "RANDEVU BİLGİLERİ",
+    "aciklama": "FORM İÇİNDE RANDEVU BİLGİLERİNİN GÖRÜNTÜLENMESİ"
+  },
+  {
+    "sayfaAdi": "RANDEVU DETAYI GÖRÜNTÜLEME",
+    "yetenek": "RANDEVU DÜZENLE",
+    "aciklama": "RANDEVU DÜZENLEME MODALI AÇMA"
+  },
+  {
+    "sayfaAdi": "RANDEVU DÜZENLEME",
+    "yetenek": "DETAY SAYFASI",
+    "aciklama": "FORM BİLGİLERİ"
+  },
+  {
+    "sayfaAdi": "RANDEVU DÜZENLEME",
+    "yetenek": "KAYDET",
+    "aciklama": "KAYDETME BUTONU"
+  },
+  {
+    "sayfaAdi": "YENİ OPERASYON EKLEME",
+    "yetenek": "FORM VE KAYDET VAZGEÇ BUTONLARI",
+    "aciklama": "OPERASYON BİLGİLERİ , TARİH.SAAT , NOTLAR"
+  },
+  {
+    "sayfaAdi": "TÜM DEĞERLENDİRMELER",
+    "yetenek": "DEĞERLENDİRME TABLOSU, FİLTRE VE ARAMA",
+    "aciklama": "TABLO"
+  },
+  {
+    "sayfaAdi": "SORULAR",
+    "yetenek": "SORULAR VE SORU SEÇİLDİĞİNDE AYRINTI GÖSTERME YERİ",
+    "aciklama": "YANIT YAZIP GÖNDERME"
+  },
+  {
+    "sayfaAdi": "MESAJLAR",
+    "yetenek": "MESAJLAR TABLOSU VE MESAJ SEÇİLDİĞİNDE AYRINTI GÖSTERME YERİ",
+    "aciklama": "YANIT YAZIP GÖNDERME"
+  },
+  {
+    "sayfaAdi": "HESABIM ZİYARETÇİ",
+    "yetenek": "OTURUMU KAPAT",
+    "aciklama": "OTURUMU KAPAT"
+  },
+  {
+    "sayfaAdi": "TAKİP EDİLEN UZMANLAR",
+    "yetenek": "UZMANNLAR VE UZMANLARI TAKİPTEN ÇIK",
+    "aciklama": "UZMAN LİSTESİ VE UZMANLARI TAKİPTEN ÇIKMA"
+  },
+  {
+    "sayfaAdi": "SORULARIM",
+    "yetenek": "SORULARIM LİSTESİ VE ARAMA",
+    "aciklama": "SORU LİSTESİNDE ARAMA YAPMA İNPUTU"
+  },
+  {
+    "sayfaAdi": "RANDEVULARIM",
+    "yetenek": "RANDEVU LİSTESİ",
+    "aciklama": "RANDEVU LİSTESİ"
+  },
+  {
+    "sayfaAdi": "DEĞERLENDİRMELER",
+    "yetenek": "DEĞERLENDİRMELER TABLOSU",
+    "aciklama": "TABLO"
+  },
+  {
+    "sayfaAdi": "AYARLAR -> HESAP BİLGİLERİNİ GÜNCELLEME",
+    "yetenek": "AD,SOYAD,CİNSİYET,DOĞUM TARİHİ,ÜLKE İL , İLÇCE",
+    "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME"
+  },
+  {
+    "sayfaAdi": "AYARLAR -> TELEFON BİLGİLERİNİ GÜNCELLEME",
+    "yetenek": "TEL NO VE ÜLKE KODU",
+    "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME"
+  },
+  {
+    "sayfaAdi": "AYARLAR -> EMAİL BİLGİLERİNİ GÜNCELLEME",
+    "yetenek": "EMAİL",
+    "aciklama": "FORMU DOLDURUP KAYDETE BASMA VE GÜNCELLME"
   }
 ]

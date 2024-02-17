@@ -1,0 +1,598 @@
+[
+  {
+    "id": "2",
+    "text": "ANASAYFA"
+  },
+  {
+    "id": "431",
+    "text": "ANASAYFA-> MAKALE DETAYI"
+  },
+  {
+    "id": "395",
+    "text": "VERİ GİZLİLİĞİ SAYFASI"
+  },
+  {
+    "id": "396",
+    "text": "HASTA OLARAK KAYIT OL"
+  },
+  {
+    "id": "397",
+    "text": "UZMAN OLARAK KAYIT OL"
+  },
+  {
+    "id": "398",
+    "text": "GİRİŞ YAP"
+  },
+  {
+    "id": "399",
+    "text": "ŞİFRENİZİ Mİ UNUTTUNUZ"
+  },
+  {
+    "id": "400",
+    "text": "ARAMA SONUÇLARI"
+  },
+  {
+    "id": "401",
+    "text": "DAHA FAZLA FİLTRE"
+  },
+  {
+    "id": "402",
+    "text": "RANDEVU ALMA"
+  },
+  {
+    "id": "403",
+    "text": "RANDEVU ALMA KENDİM İÇİN"
+  },
+  {
+    "id": "404",
+    "text": "RANDEVU ALMA BAŞKASI İÇİN"
+  },
+  {
+    "id": "405",
+    "text": "UZMAN PROFİLİ"
+  },
+  {
+    "id": "408",
+    "text": "UZMAN PROFİLİ->HİZMETLER"
+  },
+  {
+    "id": "409",
+    "text": "UZMAN PROFİLİ->HİZMETLER-> ÜCRETLER HAKKINDA"
+  },
+  {
+    "id": "410",
+    "text": "UZMAN PROFİLİ->GÖRÜŞLER"
+  },
+  {
+    "id": "411",
+    "text": "UZMAN PROFİLİ->GÖRÜŞLER-> YORUM KURALLARI"
+  },
+  {
+    "id": "412",
+    "text": "UZMAN PROFİLİ->GÖRÜŞLER-> GÖRÜŞ EKLEME"
+  },
+  {
+    "id": "413",
+    "text": "UZMAN PROFİLİ->GÖRÜŞLER-> GÖRÜŞÜ ŞİKAYET ETME"
+  },
+  {
+    "id": "414",
+    "text": "UZMAN PROFİLİ->GÖRÜŞLER-> GÖRÜŞÜ ŞİKAYET ETME-> KULLANIM ŞARTNAMESİ"
+  },
+  {
+    "id": "415",
+    "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ"
+  },
+  {
+    "id": "416",
+    "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> HAKKIMDA"
+  },
+  {
+    "id": "417",
+    "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> İLGİ ALANLARI"
+  },
+  {
+    "id": "418",
+    "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> OKULLAR/EĞİTİMLER"
+  },
+  {
+    "id": "419",
+    "text": "UZMAN PROFİLİ->ÖZGEÇMİŞ-> DENEYİMLER"
+  },
+  {
+    "id": "463",
+    "text": "PROFİLİM (UZMAN)"
+  },
+  {
+    "id": "406",
+    "text": "UZMAN İLETİŞİM BİLGİLERİ"
+  },
+  {
+    "id": "407",
+    "text": "UZMANA UYGULAMA İLE MESAJ GÖNDERME"
+  },
+  {
+    "id": "421",
+    "text": "ONLİNE DANIŞMANLIK NEDİR?"
+  },
+  {
+    "id": "422",
+    "text": "TÜM UZMANLIK ALANLARI"
+  },
+  {
+    "id": "423",
+    "text": "FİLTRELEME SONUCU"
+  },
+  {
+    "id": "424",
+    "text": "HASTANE PROFİLİ"
+  },
+  {
+    "id": "425",
+    "text": "HASTANE İLETİŞİM BİLGİLERİ"
+  },
+  {
+    "id": "426",
+    "text": "HASTANE HİZMET DETAYLARI"
+  },
+  {
+    "id": "427",
+    "text": "HASTANE UZMAN DETAYLARI"
+  },
+  {
+    "id": "429",
+    "text": "HASTANE RANDEVU AL"
+  },
+  {
+    "id": "432",
+    "text": "GİZLİLİK SÖZLEŞMESİ"
+  },
+  {
+    "id": "433",
+    "text": "ÇEREZ POLİTİKASI"
+  },
+  {
+    "id": "434",
+    "text": "BİLGİ GÜVENLİĞİ POLİTİKASI"
+  },
+  {
+    "id": "435",
+    "text": "HAKKIMIZDA"
+  },
+  {
+    "id": "436",
+    "text": "KARİYER"
+  },
+  {
+    "id": "437",
+    "text": "KARİYER -> İŞ DETAYLARI"
+  },
+  {
+    "id": "438",
+    "text": "KARİYER -> DEPARTMANLAR"
+  },
+  {
+    "id": "439",
+    "text": "İLETİŞİM"
+  },
+  {
+    "id": "476",
+    "text": "PROFİLİNİZ -> İLETİŞİM BİLGİLERİ"
+  },
+  {
+    "id": "605",
+    "text": "İLETİŞİME GEÇİN"
+  },
+  {
+    "id": "635",
+    "text": "YAZILIM ÇÖZÜMLERİ İÇİN İLETİŞİME GEÇİN"
+  },
+  {
+    "id": "661",
+    "text": "BİZİMLE İLETİŞİME GEÇİN"
+  },
+  {
+    "id": "440",
+    "text": "KULLANIM ŞARTNAMESİ"
+  },
+  {
+    "id": "441",
+    "text": "BASIN MERKEZİ"
+  },
+  {
+    "id": "442",
+    "text": "SıK SORULAN SORULAR"
+  },
+  {
+    "id": "444",
+    "text": "FARKLI DİL SEÇENEĞİ"
+  },
+  {
+    "id": "445",
+    "text": "KLİNİKLER"
+  },
+  {
+    "id": "446",
+    "text": "KLİNİKLER-> FİLTREYE GÖRE KLİNİKLER/HASTANELER"
+  },
+  {
+    "id": "447",
+    "text": "HİZMETLER"
+  },
+  {
+    "id": "448",
+    "text": "HİZMETLER -> FİLTRELENDİKTEN SONRA"
+  },
+  {
+    "id": "470",
+    "text": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME -> HİZMETLER EKLEME"
+  },
+  {
+    "id": "477",
+    "text": "PROFİLİNİZ -> HİZMETLER"
+  },
+  {
+    "id": "630",
+    "text": "DİJİTAL HİZMETLERİMİZLE TANIŞIN"
+  },
+  {
+    "id": "449",
+    "text": "HASTALIKLAR"
+  },
+  {
+    "id": "450",
+    "text": "HASTALIKLAR -> FİLTRELENDİKTEN SONRA"
+  },
+  {
+    "id": "451",
+    "text": "HASTALIKLAR -> UZMANLARI GÖSTER"
+  },
+  {
+    "id": "452",
+    "text": "HASTALIKLAR -> NASIL ÇALIŞIR ?"
+  },
+  {
+    "id": "467",
+    "text": "TEDAVİ EDİLEN HASTALIKLARI EKLEME"
+  },
+  {
+    "id": "453",
+    "text": "MOBİL UYGULAMALAR"
+  },
+  {
+    "id": "454",
+    "text": "HASTALARA YÖNELİK BLOG"
+  },
+  {
+    "id": "455",
+    "text": "MAKALE DETAY"
+  },
+  {
+    "id": "456",
+    "text": "TAKVİM"
+  },
+  {
+    "id": "457",
+    "text": "TAKVİMİ ETKİNLEŞTİRİN"
+  },
+  {
+    "id": "604",
+    "text": "DOKTOR MUSUNUZ? / DOKTOR TAKVİMİ PRO"
+  },
+  {
+    "id": "624",
+    "text": "HEKİM VE UZMANLAR İÇİN DOKTORTAKVİMİPRO"
+  },
+  {
+    "id": "458",
+    "text": "MESAJLAR"
+  },
+  {
+    "id": "459",
+    "text": "MESAJLARI AKTİVE EDİN"
+  },
+  {
+    "id": "460",
+    "text": "HASTALAR"
+  },
+  {
+    "id": "461",
+    "text": "RAPORLAR"
+  },
+  {
+    "id": "462",
+    "text": "TOPLU MAİL/SMS"
+  },
+  {
+    "id": "464",
+    "text": "PROFİL FOTOĞRAFI EKLEME"
+  },
+  {
+    "id": "465",
+    "text": "FOTOĞRAFI EKLEME"
+  },
+  {
+    "id": "466",
+    "text": "SERTİFİKA EKLEME"
+  },
+  {
+    "id": "468",
+    "text": "ADRESLER"
+  },
+  {
+    "id": "469",
+    "text": "ADRESLER -> HİZMET VERDİĞİNİZ ADRES EKLEME"
+  },
+  {
+    "id": "471",
+    "text": "ADRESLER -> ONLİNE DANIŞMANLIK EKLEME"
+  },
+  {
+    "id": "475",
+    "text": "PROFİLİNİZ -> ADRESLER"
+  },
+  {
+    "id": "472",
+    "text": "KULLANICILAR"
+  },
+  {
+    "id": "473",
+    "text": "İSTATİSTİKLER"
+  },
+  {
+    "id": "474",
+    "text": "ROZET KULLAN"
+  },
+  {
+    "id": "478",
+    "text": "PROFİLİNİZ -> GÖRÜŞLER"
+  },
+  {
+    "id": "479",
+    "text": "PROFİLİNİZ -> ÖZGEÇMİŞ"
+  },
+  {
+    "id": "535",
+    "text": "WEBSİTEM"
+  },
+  {
+    "id": "536",
+    "text": "WEBSİTENİZ İÇİN ROZET"
+  },
+  {
+    "id": "537",
+    "text": "PLANLARIMIZ"
+  },
+  {
+    "id": "538",
+    "text": "HABERLER"
+  },
+  {
+    "id": "598",
+    "text": "HASTA PROFİLİ -> HESABIM"
+  },
+  {
+    "id": "600",
+    "text": "HESABIM->RANDEVULARIM"
+  },
+  {
+    "id": "601",
+    "text": "HESABIM->KAYITLI UZMANLAR"
+  },
+  {
+    "id": "656",
+    "text": "TANITIMI İZLEYİN"
+  },
+  {
+    "id": "602",
+    "text": "HESABIM-> BİLDİRİM TERCİHLERİ"
+  },
+  {
+    "id": "603",
+    "text": "HESABIM-> SOSYAL MEDYA HESAPLARI"
+  },
+  {
+    "id": "594",
+    "text": "ŞİFRE DEĞİŞTİR"
+  },
+  {
+    "id": "595",
+    "text": "E-POSTA DEĞİŞTİRME"
+  },
+  {
+    "id": "596",
+    "text": "DOKTOR ZİYARETLERİM"
+  },
+  {
+    "id": "597",
+    "text": "VERİ GİZLİLİĞİ"
+  },
+  {
+    "id": "599",
+    "text": "E-POSTA DEĞİŞTİR"
+  },
+  {
+    "id": "606",
+    "text": "MESAJ PANOSU"
+  },
+  {
+    "id": "611",
+    "text": "ÇÖZÜMLERİMİZ"
+  },
+  {
+    "id": "612",
+    "text": "TEKLİFİNİZİ ÖĞRENİN"
+  },
+  {
+    "id": "613",
+    "text": "DAHA FAZLA HASTA VE DANIŞAN MEMNUNİYETİ"
+  },
+  {
+    "id": "614",
+    "text": "ZAMANDAN TASARRUF"
+  },
+  {
+    "id": "616",
+    "text": "EKSİKSİZ ONLİNE GÖRÜNÜRLÜK"
+  },
+  {
+    "id": "617",
+    "text": "ONLİNE GÖRÜNÜRLÜK VİDEOMUZU İZLEYİN"
+  },
+  {
+    "id": "618",
+    "text": "İŞ AKIŞINIZI MÜKEMMELLEŞTİRİN"
+  },
+  {
+    "id": "619",
+    "text": "HEKİM VE UZMANLAR"
+  },
+  {
+    "id": "634",
+    "text": "FİYATLANDIRMA HEKİM VE UZMANLAR"
+  },
+  {
+    "id": "620",
+    "text": "KURUMLAR"
+  },
+  {
+    "id": "637",
+    "text": "FİYATLANDIRMA KURUMLAR"
+  },
+  {
+    "id": "621",
+    "text": "KURUMA ÖZEL TEKLİF"
+  },
+  {
+    "id": "623",
+    "text": "ÜRÜNLERİMİZ"
+  },
+  {
+    "id": "633",
+    "text": "TÜM ÜRÜNLERİMİZ"
+  },
+  {
+    "id": "625",
+    "text": "KUSURSUZ YARDIMCI"
+  },
+  {
+    "id": "626",
+    "text": "7/24 ONLİNE RANDEVU"
+  },
+  {
+    "id": "627",
+    "text": "OTOMATİK HATIRLATICILAR"
+  },
+  {
+    "id": "628",
+    "text": "ÇAĞRI MERKEZİ"
+  },
+  {
+    "id": "629",
+    "text": "PROFESYONEL ÜYELİK"
+  },
+  {
+    "id": "631",
+    "text": "MEDİKAL TAKİP"
+  },
+  {
+    "id": "632",
+    "text": "PROFESYONEL WEB SİTESİ"
+  },
+  {
+    "id": "638",
+    "text": "BAŞARI HİKAYELERİ"
+  },
+  {
+    "id": "640",
+    "text": "BAŞARI HİKAYELERİ DETAY"
+  },
+  {
+    "id": "639",
+    "text": "DEMO TALEP EDİN"
+  },
+  {
+    "id": "641",
+    "text": "ÜCRETSİZ KAYNAKLAR E-KİTAPLAR"
+  },
+  {
+    "id": "642",
+    "text": "ÜCRETSİZ KAYNAKLAR E-KİTAPLAR -> HEMEN İNDİR"
+  },
+  {
+    "id": "643",
+    "text": "ÜCRETSİZ KAYNAKLAR KULLANIM KILAVUZU"
+  },
+  {
+    "id": "644",
+    "text": "ÜCRETSİZ KAYNAKLAR  PROFİL DÜZENLEME VİDEO REHBERLERİ"
+  },
+  {
+    "id": "645",
+    "text": "ÜCRETSİZ KAYNAKLAR  BLOG"
+  },
+  {
+    "id": "646",
+    "text": "ÜCRETSİZ KAYNAKLAR  BLOG -> BLOG İÇERİKLERİ"
+  },
+  {
+    "id": "647",
+    "text": "ÜCRETSİZ KAYNAKLAR BLOG -> YAZARIN DİĞER MAKALELERİ"
+  },
+  {
+    "id": "649",
+    "text": "ÜCRETSİZ KAYNAKLAR  VİDEOLAR"
+  },
+  {
+    "id": "650",
+    "text": "ÜCRETSİZ KAYNAKLAR VİDEOLAR -> VİDEO İZLE"
+  },
+  {
+    "id": "651",
+    "text": "ÜCRETSİZ KAYNAKLAR İNFOGRAFİKLER"
+  },
+  {
+    "id": "652",
+    "text": "ÜCRETSİZ KAYNAKLAR İNFOGRAFİKLER -> İÇERİĞİ"
+  },
+  {
+    "id": "653",
+    "text": "ÜCRETSİZ KAYNAKLAR İNFOGRAFİKLER -> İÇERİĞİ-> İSTİYORUM"
+  },
+  {
+    "id": "654",
+    "text": "ÜCRETSİZ KAYNAKLAR ->MÜŞTERİLERİMİZLE NASIL ÇALIŞIYORUZ?"
+  },
+  {
+    "id": "655",
+    "text": "ÜCRETSİZ KAYNAKLAR ->HASTA DANIŞAN VERİLERİNİ NASIL KORUYORUZ?"
+  },
+  {
+    "id": "657",
+    "text": "BİZE ULAŞIN"
+  },
+  {
+    "id": "658",
+    "text": "YARDIM MERKEZİ"
+  },
+  {
+    "id": "659",
+    "text": "SORU VE CEVABI"
+  },
+  {
+    "id": "660",
+    "text": "İNTERNET SİTESİ ROZETİ"
+  },
+  {
+    "id": "710",
+    "text": "HESABIM"
+  },
+  {
+    "id": "711",
+    "text": "ONLİNE DANIŞMANLIK"
+  },
+  {
+    "id": "712",
+    "text": "E-POSTA VE SMS KAMPANYALARI"
+  }
+]

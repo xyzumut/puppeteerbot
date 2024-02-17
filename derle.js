@@ -10,7 +10,7 @@ const yaz = (text) => {
     });
 }
 
-fs.readFile('tumsayfalar.json', 'utf8', (err, tumSayfalar) => {
+fs.readFile('sayfalar.json', 'utf8', (err, tumSayfalar) => {
 
     if (err) {
         console.error('Dosya okunurken hata oluştu:', err);

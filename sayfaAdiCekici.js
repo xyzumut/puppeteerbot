@@ -1,7 +1,7 @@
 const fs = require('fs'); // Dosya işlemleri için gerekli modülü içe aktar
 
 
-const strings = [
+const doktorTakvimiSayfalari = [
     "ANA SAYFA",
     "VERİ GİZLİLİĞİ SAYFASI",
     "HASTA OLARAK KAYIT OL",
@@ -153,6 +153,46 @@ const strings = [
     "BİZİMLE İLETİŞİME GEÇİN"
 ];
 
+const doktorSitesiSayfalari = [
+    'ANASAYFA',
+    'POPÜLER BRANŞLAR',
+    'MAKALELER',
+    'MAKALE İÇERİĞİ',
+    'BİZE ULAŞIN',
+    'DOKTORLAR İÇİN',
+    'DOKTOR MUSUNUZ',
+    'HASTANE PROFİLİ',
+    'RANDEVU ALMA',
+    'UZMANLAR',
+    'UZMANA SORU SORMA',
+    'UZMANDAN RANDEVU ALMA',
+    'UZMANLAR HAKKINDA GÖRÜŞLER',
+    'UZMANLARIN HİZMETLERİ',
+    'GÖRÜŞ EKLEME',
+    'YORUM KURALLARI',
+    'GİZLİLİK SÖZLEŞMESİ',
+    'HASTANELER',
+    'GİRİŞ YAP',
+    'ZİYARETÇİ OLARAK ÜYE OL',
+    'DOKTOR ÜYELİĞİ',
+    'HESABIM UZMAN',
+    'MAKALE YAYINLAMA',
+    'RANDEVU DETAYI GÖRÜNTÜLEME',
+    'RANDEVU DÜZENLEME',
+    'YENİ OPERASYON EKLEME',
+    'TÜM DEĞERLENDİRMELER',
+    'SORULAR',
+    'MESAJLAR',
+    'HESABIM ZİYARETÇİ',
+    'TAKİP EDİLEN UZMANLAR',
+    'SORULARIM',
+    'RANDEVULARIM',
+    'DEĞERLENDİRMELER',
+    'AYARLAR -> HESAP BİLGİLERİNİ GÜNCELLEME',
+    'AYARLAR -> TELEFON BİLGİLERİNİ GÜNCELLEME',
+    'AYARLAR -> EMAİL BİLGİLERİNİ GÜNCELLEME'
+];
+
 const yaz = (text) => {
     fs.appendFile('sayfaBilgileri.txt', text, function (err) {
         if (err) {
@@ -166,8 +206,9 @@ const yaz = (text) => {
 const all = [];
 
 const istekAt = async ( string ) => {
-    console.log('Gişrdi')
-    const url = 'https://panel.prosyazilim.com.tr/api/ajax/select.php?tur=yz_ornek_uygulama_sayfalari&veri=sayfa_adi&order=id&bosveri&sildr&filtreadi=uygulama_id&filtre=1';
+    console.log('Girdi')
+    const url = 'https://panel.prosyazilim.com.tr/api/ajax/select.php?tur=yz_ornek_uygulama_sayfalari&veri=sayfa_adi&order=id&bosveri&sildr&filtreadi=uygulama_id&filtre=2';
+
     const formData = new FormData();
     formData.append('searchTerm', string);
     const request = await fetch( url, {
@@ -180,10 +221,9 @@ const istekAt = async ( string ) => {
 }
 
 const islem = async () => {
-    for ( const string of strings ) {
+    for ( const string of doktorSitesiSayfalari ) {
         await istekAt(string);
     }
-
     const uniqueArray = [...new Set(all)];
     yaz(JSON.stringify(uniqueArray));
 }
