@@ -23,5 +23,6 @@
     { "text": "STEPPER"  , "id": "20"},
     { "text": "MENÜ - NAVBAR" , "id": "25"},
     { "text": "CARD"  , "id": "26"},
+    { "text": "BREADCRUMB", "id": "23" },
     { "text": "TABLE"  , "id": "29"}
 ]

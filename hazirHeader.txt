@@ -1,0 +1,42 @@
+    {
+        yetenekAdi:'Doktor Girişi Butonu',
+        yetenekAciklamasi:'Doktor Girişine yönlendiren buton',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'BUTON', id:'1' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Sosyal Medya İkonları',
+        yetenekAciklamasi:'Sosyal Medya İkonları',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'METİN LİNK', id:'14' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Logo',
+        yetenekAciklamasi:'Sitenin anasayfasına yönlendiren logo',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'GORSEL', id:'5' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Anasayfa, doktorlar, hastaneler, makale, doktor musun?, iletim ve Giriş Yap/Kaydol sayfaları yönlendirmeleri',
+        yetenekAciklamasi:'Anasayfa, doktorlar, hastaneler, makale, doktor musun?, iletim ve Giriş Yap/Kaydol sayfaları yönlendirmeleri',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'MENÜ - NAVBAR', id:'25' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Doktor Arama',
+        yetenekAciklamasi:'Doktor Arama Formu, arama sayfasına yönlendirir arama yapıldığında',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'INPUT', id:'3' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'XXXX Breadcrumb',
+        yetenekAciklamasi:'XXXX sayfasında olduğumuzu gösteren breadcrumb',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'BREADCRUMB', id:'23' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },

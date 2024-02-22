@@ -1,0 +1,49 @@
+    {
+        yetenekAdi:'Sosyal Medya İkonları - footer ',
+        yetenekAciklamasi:'Sosyal Medya İkonları',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'METİN LİNK', id:'14' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Hakkımızda, Doktorlar, Hastaneler, Blog, Makaleler, Doktor Musun? ve Giriş sayfası yönlendirmeleri - footer',
+        yetenekAciklamasi:'Hakkımızda, Doktorlar, Hastaneler, Blog, Makaleler, Doktor Musun? ve Giriş sayfası yönlendirmeleri',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'LİSTELEME', id:'9' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Son Makale İçerikleri Footer',
+        yetenekAciklamasi:'Son Makale içeriklerinin listelendiği footer kısmı',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'LİSTELEME', id:'9' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Son Makale İçerikleri -footer- Yönlendirme',
+        yetenekAciklamasi:'Footerda\'ki son makale içeriklerinin her biri, üzerlerine basıldığında ilgili makaleye yönlendiriyor',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'METİN LİNK', id:'14' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Sorumluluk Reddi Beyanı',
+        yetenekAciklamasi:'Sorumluluk Reddi Beyanı',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'METİN', id:'15' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'İletişim Bilgileri - Footer',
+        yetenekAciklamasi:'Footerda yazan iletişim bilgileri; Adres, mail adresi, telefon numarası',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'METİN', id:'15' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
+    {
+        yetenekAdi:'Google Play & App Store yönlendirmesi - footer ',
+        yetenekAciklamasi:'Mobil uygulama yönlendirmeleri',
+        resim:'/Beklemede/xx',
+        kategori:{ text:'GORSEL', id:'5' },
+        sayfa:{ text:'Beklemede', id:'Beklemede' }
+    },
