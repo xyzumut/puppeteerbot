@@ -168,37 +168,37 @@ const girilecekSayfaData = [
 
 const girilecekYeteneklerData = [
     {
-        yetenekAdi:'BEKLEMEDE',
-        yetenekAciklamasi:'BEKLEMEDE',
-        resim:'BEKLEMEDE',
+        yetenekAdi:'Doktor Girişi Butonu',
+        yetenekAciklamasi:'Doktor Girişine yönlendiren buton',
+        resim:'1',
         kategori:{ text:'BEKLEMEDE', id:'BEKLEMEDE' },
         sayfa:{ text:'BEKLEMEDE', id:'BEKLEMEDE' }
     },
     {
         yetenekAdi:'BEKLEMEDE',
         yetenekAciklamasi:'BEKLEMEDE',
-        resim:'BEKLEMEDE',
+        resim:'2',
         kategori:{ text:'BEKLEMEDE', id:'BEKLEMEDE' },
         sayfa:{ text:'BEKLEMEDE', id:'BEKLEMEDE' }
     },
     {
         yetenekAdi:'BEKLEMEDE',
         yetenekAciklamasi:'BEKLEMEDE',
-        resim:'BEKLEMEDE',
+        resim:'3',
         kategori:{ text:'BEKLEMEDE', id:'BEKLEMEDE' },
         sayfa:{ text:'BEKLEMEDE', id:'BEKLEMEDE' }
     },
     {
         yetenekAdi:'BEKLEMEDE',
         yetenekAciklamasi:'BEKLEMEDE',
-        resim:'BEKLEMEDE',
+        resim:'4',
         kategori:{ text:'BEKLEMEDE', id:'BEKLEMEDE' },
         sayfa:{ text:'BEKLEMEDE', id:'BEKLEMEDE' }
     },
     {
         yetenekAdi:'BEKLEMEDE',
         yetenekAciklamasi:'BEKLEMEDE',
-        resim:'BEKLEMEDE',
+        resim:'5',
         kategori:{ text:'BEKLEMEDE', id:'BEKLEMEDE' },
         sayfa:{ text:'BEKLEMEDE', id:'BEKLEMEDE' }
     },

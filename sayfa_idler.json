@@ -1,74 +1,20 @@
 [
-    {
-      "id": "60",
-      "text": "Anasayfa"
-    },
-    {
-      "id": "61",
-      "text": "Arama Sayfası"
-    },
-    {
-      "id": "62",
-      "text": "Ayarlar"
-    },
-    {
-      "id": "63",
-      "text": "Doktor Musun?"
-    },
-    {
-      "id": "64",
-      "text": "Doktorlar"
-    },
-    {
-      "id": "65",
-      "text": "Doktor Girişi"
-    },
-    {
-      "id": "66",
-      "text": "Hasta Girişi"
-    },
-    {
-      "id": "67",
-      "text": "Hastaneler"
-    },
-    {
-      "id": "68",
-      "text": "Hastane Profili"
-    },
-    {
-      "id": "69",
-      "text": "Hasta Profili"
-    },
-    {
-      "id": "70",
-      "text": "İletişim"
-    },
-    {
-      "id": "71",
-      "text": "Kayıt Ol - 1"
-    },
-    {
-      "id": "72",
-      "text": "Kayıt Ol - 2"
-    },
-    {
-      "id": "73",
-      "text": "Makaleler Sayfası"
-    },
-    {
-      "id": "74",
-      "text": "Makale Sayfası"
-    },
-    {
-      "id": "75",
-      "text": "Makale Yazma Sayfası"
-    },
-    {
-      "id": "76",
-      "text": "Şifremi Unuttum Sayfası"
-    },
-    {
-      "id": "77",
-      "text": "Makale Düzenle Sayfası"
-    }
+  { "id": "60", "text": "Anasayfa" },
+  { "id": "61", "text": "Arama Sayfası" },
+  { "id": "62", "text": "Ayarlar" },
+  { "id": "63", "text": "Doktor Musun?" },
+  { "id": "64", "text": "Doktorlar" },
+  { "id": "65", "text": "Doktor Girişi" },
+  { "id": "66", "text": "Hasta Girişi" },
+  { "id": "67", "text": "Hastaneler" },
+  { "id": "68", "text": "Hastane Profili" },
+  { "id": "69", "text": "Hasta Profili" },
+  { "id": "70", "text": "İletişim" },
+  { "id": "71", "text": "Kayıt Ol - 1" },
+  { "id": "72", "text": "Kayıt Ol - 2" },
+  { "id": "73", "text": "Makaleler Sayfası" },
+  { "id": "74", "text": "Makale Sayfası" },
+  { "id": "75", "text": "Makale Yazma Sayfası" },
+  { "id": "76", "text": "Şifremi Unuttum Sayfası" },
+  { "id": "77", "text": "Makale Düzenle Sayfası" }
 ]
