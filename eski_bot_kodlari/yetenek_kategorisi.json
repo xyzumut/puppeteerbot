@@ -1,5 +1,4 @@
-[
-    { "text": "BUTON"  , "id": "1"},
+[   { "text": "BUTON"  , "id": "1"},
     { "text": "SELECT LİSTE"  , "id": "2"},
     { "text": "INPUT"  , "id": "3"},
     { "text": "METİN LİNK"  , "id": "14"},
@@ -24,5 +23,5 @@
     { "text": "MENÜ - NAVBAR" , "id": "25"},
     { "text": "CARD"  , "id": "26"},
     { "text": "BREADCRUMB", "id": "23" },
-    { "text": "TABLE"  , "id": "29"}
-]
+    { "text": "COLLAPSE-ACCORDION", "id": "30" },
+    { "text": "TABLE"  , "id": "29"} ]
